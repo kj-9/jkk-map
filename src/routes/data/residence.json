@@ -1,0 +1,4334 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "アスタ",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4680060&pgret=2",
+      "address": "西東京市田無町2-1-1",
+      "rent_raw": "88,500～148,000円（月額）",
+      "rent_from": 88500,
+      "rent_to": 148000,
+      "layout_raw": "2DK・3LDK",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 1995,
+      "management_fee_raw": "5,000円",
+      "management_fees": "[5000]",
+      "access": "西武新宿線「田無」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5403688, 35.7281747] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "エミエルタワー竹の塚",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2180410&pgret=2",
+      "address": "足立区西竹の塚1-11-2",
+      "rent_raw": "101,400～152,500円（月額）",
+      "rent_from": 101400,
+      "rent_to": 152500,
+      "layout_raw": "1LDK～3LDK",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 2005,
+      "management_fee_raw": "3,500円",
+      "management_fees": "[3500]",
+      "access": "東武スカイツリーライン(伊勢崎線)「竹ノ塚」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7896744, 35.7931562] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "カーメスト大蔵の杜",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280880&pgret=2",
+      "address": "世田谷区 大蔵3-1-5",
+      "rent_raw": "107,900～189,900円（月額）",
+      "rent_from": 107900,
+      "rent_to": 189900,
+      "layout_raw": "1Ｋ＋Ｓ～3LDK",
+      "layouts": "['1K+S', '3LDK']",
+      "built_year": 2022,
+      "management_fee_raw": "5,300円",
+      "management_fees": "[5300]",
+      "access": "小田急小田原線「祖師ヶ谷大蔵」駅 徒歩18～20分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6104689, 35.6324043] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャタワー小松川",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380200&pgret=2",
+      "address": "江戸川区小松川1-2-3",
+      "rent_raw": "107,000～176,700円（月額）",
+      "rent_from": 107000,
+      "rent_to": 176700,
+      "layout_raw": "２ＤＫ～４ＤＫ",
+      "layouts": "['2DK', '4DK']",
+      "built_year": 1993,
+      "management_fee_raw": "4,800円",
+      "management_fees": "[4800]",
+      "access": "都営地下鉄新宿線「東大島」駅下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.849889, 35.6880609] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャタワー佃",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=280070&pgret=2",
+      "address": "中央区佃2-2-11",
+      "rent_raw": "120,000～236,800円（月額）",
+      "rent_from": 120000,
+      "rent_to": 236800,
+      "layout_raw": "１ＬＤＫ～４ＬＤＫ",
+      "layouts": "['1LDK', '4LDK']",
+      "built_year": 1991,
+      "management_fee_raw": "4,900円",
+      "management_fees": "[4900]",
+      "access": "東京メトロ有楽町線「月島」駅下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.786816, 35.6679229] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム愛宕四丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5480170&pgret=2",
+      "address": "多摩市愛宕4-53-2,3",
+      "rent_raw": "81,800～108,700円（月額）",
+      "rent_from": 81800,
+      "rent_to": 108700,
+      "layout_raw": "2LDK～4LDK",
+      "layouts": "['2LDK', '4LDK']",
+      "built_year": 1993,
+      "management_fee_raw": "4,600円",
+      "management_fees": "[4600]",
+      "access": "小田急多摩線「多摩センター」駅からバス約4分「愛宕四丁目」下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4302776, 35.6318178] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム芦花公園",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280820&pgret=2",
+      "address": "世田谷区南烏山2-6-1",
+      "rent_raw": "85,900～181,300円（月額）",
+      "rent_from": 85900,
+      "rent_to": 181300,
+      "layout_raw": "1DK～3LDK",
+      "layouts": "['1DK', '3LDK']",
+      "built_year": 2008,
+      "management_fee_raw": "4,500円",
+      "management_fees": "[4500]",
+      "access": "京王線「芦花公園」駅下車徒歩8分",
+      "comment": "４号棟には各住戸に１台エアコンが設置されています。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6074011, 35.6656097] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム下柚木三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180370&pgret=2",
+      "address": "八王子市下柚木3-3-1",
+      "rent_raw": "78,000～120,900円（月額）",
+      "rent_from": 78000,
+      "rent_to": 120900,
+      "layout_raw": "2LDK～4LDK+ＤＫ",
+      "layouts": "['2LDK', '4LDK+DK']",
+      "built_year": 1995,
+      "management_fee_raw": "5,400円",
+      "management_fees": "[5400]",
+      "access": "京王相模原線「南大沢」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3794168, 35.620227] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム加賀",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980350&pgret=2",
+      "address": "板橋区加賀1-23-1",
+      "rent_raw": "89,700～144,600円（月額）",
+      "rent_from": 89700,
+      "rent_to": 144600,
+      "layout_raw": "１Ｋ～２ＬＤＫ",
+      "layouts": "['1K', '2LDK']",
+      "built_year": 2015,
+      "management_fee_raw": "4,400円",
+      "management_fees": "[4400]",
+      "access": "ＪＲ埼京線「十条」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7177596, 35.7580546] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム亀戸七丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880370&pgret=2",
+      "address": "江東区亀戸7-67-2",
+      "rent_raw": "102,200～127,300円（月額）",
+      "rent_from": 102200,
+      "rent_to": 127300,
+      "layout_raw": "1LDK～3DK",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 2003,
+      "management_fee_raw": "4,100円",
+      "management_fees": "[4100]",
+      "access": "都営地下鉄新宿線「大島」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8390923, 35.6947233] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム久我山",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280850&pgret=2",
+      "address": "世田谷区北烏山2-10",
+      "rent_raw": "92,400～194,900円（月額）",
+      "rent_from": 92400,
+      "rent_to": 194900,
+      "layout_raw": "1DK～3LDK",
+      "layouts": "['1DK', '3LDK']",
+      "built_year": 2012,
+      "management_fee_raw": "6,700円",
+      "management_fees": "[6700]",
+      "access": "京王井の頭線「久我山」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5996353, 35.6807109] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム玉川上水",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5080100&pgret=2",
+      "address": "東大和市桜が丘3-44-32-1",
+      "rent_raw": "76,400～95,700円（月額）",
+      "rent_from": 76400,
+      "rent_to": 95700,
+      "layout_raw": "2LDK～4DK",
+      "layouts": "['2LDK', '4DK']",
+      "built_year": 1987,
+      "management_fee_raw": "3,400円",
+      "management_fees": "[3400]",
+      "access": "西武拝島線「玉川上水」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4181642, 35.73279] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム玉川上水第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5080110&pgret=2",
+      "address": "東大和市桜が丘3-44-13-21",
+      "rent_raw": "84,200～124,200円（月額）",
+      "rent_from": 84200,
+      "rent_to": 124200,
+      "layout_raw": "2DK＋S～4LDK",
+      "layouts": "['2DK+S', '4LDK']",
+      "built_year": 1993,
+      "management_fee_raw": "4,600円",
+      "management_fees": "[4600]",
+      "access": "西武拝島線「玉川上水」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4200384, 35.7330034] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム駒込",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1680130&pgret=2",
+      "address": "豊島区駒込1-13-6",
+      "rent_raw": "120,300～179,900円（月額）",
+      "rent_from": 120300,
+      "rent_to": 179900,
+      "layout_raw": "1LDK～3DK",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 2005,
+      "management_fee_raw": "5,500円",
+      "management_fees": "[5500]",
+      "access": "ＪＲ山手線「駒込」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7487376, 35.7351934] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム経堂",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280580&pgret=2",
+      "address": "世田谷区経堂4-30-1",
+      "rent_raw": "100,700～131,800円（月額）",
+      "rent_from": 100700,
+      "rent_to": 131800,
+      "layout_raw": "1LDK～3DK",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 1993,
+      "management_fee_raw": "6,800円",
+      "management_fees": "[6800]",
+      "access": "小田急小田原線「千歳船橋」駅下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6281348, 35.6488631] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム光が丘第一",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2080060&pgret=2",
+      "address": "練馬区光が丘3-3-1",
+      "rent_raw": "100,100円（月額）",
+      "rent_from": 100100,
+      "rent_to": 100100,
+      "layout_raw": "2LDK・3DK",
+      "layouts": "['2LDK', '3DK']",
+      "built_year": 1984,
+      "management_fee_raw": "3,200円",
+      "management_fees": "[3200]",
+      "access": "都営地下鉄大江戸線「光が丘」駅下車徒歩9分",
+      "comment": "当住宅敷地内に交番があります。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6268499, 35.7539384] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム光が丘第三",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2080080&pgret=2",
+      "address": "練馬区光が丘3-3-5",
+      "rent_raw": "103,000～120,500円（月額）",
+      "rent_from": 103000,
+      "rent_to": 120500,
+      "layout_raw": "2LDK～4DK",
+      "layouts": "['2LDK', '4DK']",
+      "built_year": 1986,
+      "management_fee_raw": "3,700円",
+      "management_fees": "[3700]",
+      "access": "都営地下鉄大江戸線「光が丘」駅下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6298729, 35.7561817] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム光が丘第四",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2080090&pgret=2",
+      "address": "練馬区光が丘3-3-9",
+      "rent_raw": "103,300～132,700円（月額）",
+      "rent_from": 103300,
+      "rent_to": 132700,
+      "layout_raw": "2DK+S～4DK",
+      "layouts": "['2DK+S', '4DK']",
+      "built_year": 1988,
+      "management_fee_raw": "4,000円",
+      "management_fees": "[4000]",
+      "access": "都営地下鉄大江戸線「光が丘」駅下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6308328, 35.7558879] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム光が丘第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2080070&pgret=2",
+      "address": "練馬区光が丘3-3-4",
+      "rent_raw": "104,300円（月額）",
+      "rent_from": 104300,
+      "rent_to": 104300,
+      "layout_raw": "2LDK・3DK",
+      "layouts": "['2LDK', '3DK']",
+      "built_year": 1985,
+      "management_fee_raw": "2,900円",
+      "management_fees": "[2900]",
+      "access": "都営地下鉄大江戸線「光が丘」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.628408, 35.7557029] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム向原",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980340&pgret=2",
+      "address": "板橋区向原3-7-1",
+      "rent_raw": "88,300～168,300円（月額）",
+      "rent_from": 88300,
+      "rent_to": 168300,
+      "layout_raw": "1K～3LDK",
+      "layouts": "['1K', '3LDK']",
+      "built_year": 2010,
+      "management_fee_raw": "4,700円",
+      "management_fees": "[4700]",
+      "access": "東京メトロ有楽町線「小竹向原」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6843975, 35.7459027] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム向原ガーデンコート",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980342&pgret=2",
+      "address": "板橋区向原3-7-A",
+      "rent_raw": "95,500～202,400円（月額）",
+      "rent_from": 95500,
+      "rent_to": 202400,
+      "layout_raw": "1K～3LDK",
+      "layouts": "['1K', '3LDK']",
+      "built_year": 2018,
+      "management_fee_raw": "5,700円",
+      "management_fees": "[5700]",
+      "access": "東京メトロ副都心線・有楽町線「小竹向原」駅下車 徒歩4分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6828634, 35.7443761] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム港南三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=380130&pgret=2",
+      "address": "港区港南3-7-1",
+      "rent_raw": "110,300～136,300円（月額）",
+      "rent_from": 110300,
+      "rent_to": 136300,
+      "layout_raw": "1DK・1LDK",
+      "layouts": "['1DK', '1LDK']",
+      "built_year": 2003,
+      "management_fee_raw": "3,800円",
+      "management_fees": "[3800]",
+      "access": "ＪＲ山手線「品川」駅下車徒歩15分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7490155, 35.6325411] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム高田馬場",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=480190&pgret=2",
+      "address": "新宿区高田馬場4-15-1",
+      "rent_raw": "114,600～186,800円（月額）",
+      "rent_from": 114600,
+      "rent_to": 186800,
+      "layout_raw": "1LDK～3DK",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 2002,
+      "management_fee_raw": "6,500円",
+      "management_fees": "[6500]",
+      "access": "ＪＲ山手線「高田馬場」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7012058, 35.7121242] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム坂下",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980320&pgret=2",
+      "address": "板橋区坂下3-10-A",
+      "rent_raw": "95,500～132,500円（月額）",
+      "rent_from": 95500,
+      "rent_to": 132500,
+      "layout_raw": "1LDK～3DK",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 2004,
+      "management_fee_raw": "6,000円",
+      "management_fees": "[6000]",
+      "access": "都営地下鉄三田線「蓮根」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6801704, 35.7854516] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム笹塚",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1380130&pgret=2",
+      "address": "渋谷区笹塚1-45-1",
+      "rent_raw": "119,300～176,300円（月額）",
+      "rent_from": 119300,
+      "rent_to": 176300,
+      "layout_raw": "2K～3DK",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2002,
+      "management_fee_raw": "4,300円",
+      "management_fees": "[4300]",
+      "access": "京王線「笹塚」駅下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6651788, 35.6727493] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム三軒茶屋",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280920&pgret=2",
+      "address": "世田谷区太子堂3-33-1,2",
+      "rent_raw": "110,400～202,300円（月額）",
+      "rent_from": 110400,
+      "rent_to": 202300,
+      "layout_raw": "1DK～2LDK",
+      "layouts": "['1DK', '2LDK']",
+      "built_year": 2010,
+      "management_fee_raw": "6,000円",
+      "management_fees": "[6000]",
+      "access": "東急田園都市線「三軒茶屋」駅下車徒歩13分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6722754, 35.6504395] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム三宿テラス",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280830&pgret=2",
+      "address": "世田谷区三宿2-16-10",
+      "rent_raw": "107,200～206,100円（月額）",
+      "rent_from": 107200,
+      "rent_to": 206100,
+      "layout_raw": "１Ｒ～２LDK",
+      "layouts": "['1R', '2LDK']",
+      "built_year": 2014,
+      "management_fee_raw": "7,200円",
+      "management_fees": "[7200]",
+      "access": "東急田園都市線「池尻大橋」駅下車徒歩13分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6752696, 35.6514125] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム志村",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980310&pgret=2",
+      "address": "板橋区志村2-11-6",
+      "rent_raw": "85,800～123,800円（月額）",
+      "rent_from": 85800,
+      "rent_to": 123800,
+      "layout_raw": "1LDK～3DK",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 2002,
+      "management_fee_raw": "4,400円",
+      "management_fees": "[4400]",
+      "access": "都営地下鉄三田線「志村坂上」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6901403, 35.776862] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム春江町五丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380180&pgret=2",
+      "address": "江戸川区春江町5-9-1",
+      "rent_raw": "89,400～128,200円（月額）",
+      "rent_from": 89400,
+      "rent_to": 128200,
+      "layout_raw": "2DK+S～4DK",
+      "layouts": "['2DK+S', '4DK']",
+      "built_year": 1990,
+      "management_fee_raw": "3,000円",
+      "management_fees": "[3000]",
+      "access": "都営地下鉄新宿線「一之江」駅下車徒歩11分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8771464, 35.6808905] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム小松川一丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380150&pgret=2",
+      "address": "江戸川区小松川1-2-1,2",
+      "rent_raw": "106,000～151,600円（月額）",
+      "rent_from": 106000,
+      "rent_to": 151600,
+      "layout_raw": "2DK+S～4DK",
+      "layouts": "['2DK+S', '4DK']",
+      "built_year": 1988,
+      "management_fee_raw": "3,100円",
+      "management_fees": "[3100]",
+      "access": "都営地下鉄新宿線「東大島」駅下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8486372, 35.6884355] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム小竹町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2080570&pgret=2",
+      "address": "練馬区小竹町1-5-1",
+      "rent_raw": "84,000～156,200円（月額）",
+      "rent_from": 84000,
+      "rent_to": 156200,
+      "layout_raw": "1DK～3LDK",
+      "layouts": "['1DK', '3LDK']",
+      "built_year": 2009,
+      "management_fee_raw": "5,100円",
+      "management_fees": "[5100]",
+      "access": "東京メトロ副都心線「小竹向原」駅下車徒歩7分",
+      "comment": "３・４号棟には各住戸に１台エアコンが設置されています。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6786181, 35.7392651] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム小日向",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=580150&pgret=2",
+      "address": "文京区小日向1-2-3",
+      "rent_raw": "120,200～183,900円（月額）",
+      "rent_from": 120200,
+      "rent_to": 183900,
+      "layout_raw": "2K～3DK",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2005,
+      "management_fee_raw": "6,400円",
+      "management_fees": "[6400]",
+      "access": "東京メトロ有楽町線「江戸川橋」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7396991, 35.7118463] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム松が谷",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180240&pgret=2",
+      "address": "八王子市松が谷11-3",
+      "rent_raw": "78,500円（月額）",
+      "rent_from": 78500,
+      "rent_to": 78500,
+      "layout_raw": "3DK",
+      "layouts": "['3DK']",
+      "built_year": 1985,
+      "management_fee_raw": "2,400円",
+      "management_fees": "[2400]",
+      "access": "小田急多摩線「多摩センター」駅からバス約7分「松が谷」下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4154672, 35.6277312] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム松が谷第三",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180260&pgret=2",
+      "address": "八王子市松が谷25-1",
+      "rent_raw": "73,900～82,600円（月額）",
+      "rent_from": 73900,
+      "rent_to": 82600,
+      "layout_raw": "2LDK～3LDK",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1988,
+      "management_fee_raw": "4,000円",
+      "management_fees": "[4000]",
+      "access": "小田急多摩線「多摩センター」駅からバス約4分「山根入」下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4193206, 35.6307379] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム松が谷第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180250&pgret=2",
+      "address": "八王子市松が谷15-1",
+      "rent_raw": "66,200～77,400円（月額）",
+      "rent_from": 66200,
+      "rent_to": 77400,
+      "layout_raw": "2DK～3LDK",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 1988,
+      "management_fee_raw": "4,000円",
+      "management_fees": "[4000]",
+      "access": "小田急多摩線「多摩センター」駅からバス約7分「松が谷」下車徒歩4分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4146958, 35.6290231] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム上鷺宮",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1480330&pgret=2",
+      "address": "中野区上鷺宮3-9-1,2",
+      "rent_raw": "93,200～167,700円（月額）",
+      "rent_from": 93200,
+      "rent_to": 167700,
+      "layout_raw": "1DK～3LDK",
+      "layouts": "['1DK', '3LDK']",
+      "built_year": 2008,
+      "management_fee_raw": "5,200円",
+      "management_fees": "[5200]",
+      "access": "西武池袋線「富士見台」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6309835, 35.7345642] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム上北台",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5080140&pgret=2",
+      "address": "東大和市上北台2-865-10",
+      "rent_raw": "78,300～84,300円（月額）",
+      "rent_from": 78300,
+      "rent_to": 84300,
+      "layout_raw": "2LDK・3LDK",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1993,
+      "management_fee_raw": "3,600円",
+      "management_fees": "[3600]",
+      "access": "西武拝島線「玉川上水」駅からバス約7分「店舗前」下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4143763, 35.7428699] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム新中野テラス",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1580260&pgret=2",
+      "address": "杉並区和田1-53-11",
+      "rent_raw": "119,300～211,100円（月額）",
+      "rent_from": 119300,
+      "rent_to": 211100,
+      "layout_raw": "1R～2LDK+Ｓ",
+      "layouts": "['1R', '2LDK+S']",
+      "built_year": 2020,
+      "management_fee_raw": "5,500円",
+      "management_fees": "[5500]",
+      "access": "東京メトロ 丸ノ内線 中野富士見町駅下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6644214, 35.6939816] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム神宮前五丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1380100&pgret=2",
+      "address": "渋谷区神宮前5-19-1",
+      "rent_raw": "151,100～208,200円（月額）",
+      "rent_from": 151100,
+      "rent_to": 208200,
+      "layout_raw": "１Ｒ～3DK",
+      "layouts": "['1R', '3DK']",
+      "built_year": 1994,
+      "management_fee_raw": "4,500円",
+      "management_fees": "[4500]",
+      "access": "東京メトロ千代田線「明治神宮前」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.705945, 35.6651836] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム神田",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=180060&pgret=2",
+      "address": "千代田区岩本町2-15-14",
+      "rent_raw": "161,800～211,600円（月額）",
+      "rent_from": 161800,
+      "rent_to": 211600,
+      "layout_raw": "1LDK～3DK",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 2003,
+      "management_fee_raw": "5,200円",
+      "management_fees": "[5200]",
+      "access": "都営地下鉄新宿線「岩本町」駅下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.777934, 35.6943528] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム杉並和田",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1580240&pgret=2",
+      "address": "杉並区和田2-5-1",
+      "rent_raw": "84,500～160,000円（月額）",
+      "rent_from": 84500,
+      "rent_to": 160000,
+      "layout_raw": "1DK～3DK",
+      "layouts": "['1DK', '3DK']",
+      "built_year": 2007,
+      "management_fee_raw": "3,000円",
+      "management_fees": "[3000]",
+      "access": "東京メトロ丸ノ内線「方南町」駅下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6596862, 35.686691] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム清新",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380120&pgret=2",
+      "address": "江戸川区清新町1-2-1,2",
+      "rent_raw": "105,300～110,600円（月額）",
+      "rent_from": 105300,
+      "rent_to": 110600,
+      "layout_raw": "2LDK・3DK",
+      "layouts": "['2LDK', '3DK']",
+      "built_year": 1983,
+      "management_fee_raw": "4,300円",
+      "management_fees": "[4300]",
+      "access": "東京メトロ東西線「西葛西」駅下車徒歩13分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8574178, 35.6587153] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム清瀬台田",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5180070&pgret=2",
+      "address": "清瀬市下宿1-1-18",
+      "rent_raw": "68,500・71,400円（月額）",
+      "rent_from": 68500,
+      "rent_to": 71400,
+      "layout_raw": "2LDK・3LDK",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1990,
+      "management_fee_raw": "1,200円",
+      "management_fees": "[1200]",
+      "access": "西武池袋線「清瀬」駅からバス約15分「台田団地」下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5327987, 35.796773] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム西馬込",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180490&pgret=2",
+      "address": "大田区西馬込2-33-3",
+      "rent_raw": "91,000～185,500円（月額）",
+      "rent_from": 91000,
+      "rent_to": 185500,
+      "layout_raw": "1DK～3LDK",
+      "layouts": "['1DK', '3LDK']",
+      "built_year": 2008,
+      "management_fee_raw": "3,800円",
+      "management_fees": "[3800]",
+      "access": "都営地下鉄浅草線「西馬込」駅下車徒歩4分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7031958, 35.5853577] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム千歳烏山",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280840&pgret=2",
+      "address": "世田谷区南烏山6-12-1",
+      "rent_raw": "96,100～181,500円（月額）",
+      "rent_from": 96100,
+      "rent_to": 181500,
+      "layout_raw": "1ＤＫ～3LDK",
+      "layouts": "['1DK', '3LDK']",
+      "built_year": 2010,
+      "management_fee_raw": "4,900円（1～4、6～8号棟）・5,200円（５号棟）",
+      "management_fees": "[4900, 5200]",
+      "access": "京王線「千歳烏山」駅下車徒歩4分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5972062, 35.6678045] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム千歳烏山（１１号棟）",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280841&pgret=2",
+      "address": "世田谷区南烏山6-12-11",
+      "rent_raw": "71,100～167,700円（月額）",
+      "rent_from": 71100,
+      "rent_to": 167700,
+      "layout_raw": "１Ｒ～２ＬＤＫ",
+      "layouts": "['1R', '2LDK']",
+      "built_year": 1957,
+      "management_fee_raw": "7,300円",
+      "management_fees": "[7300]",
+      "access": "京王線「千歳烏山」駅下車徒歩５分",
+      "comment": "旧烏山住宅の１棟を残存させて行う「住棟改善モデル事業」を実施した建物です。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5975646, 35.6676983] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム千歳船橋フロント",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280910&pgret=2",
+      "address": "世田谷区経堂4-17-7、7-15",
+      "rent_raw": "101,700～181,900円（月額）",
+      "rent_from": 101700,
+      "rent_to": 181900,
+      "layout_raw": "1K～2LDK",
+      "layouts": "['1K', '2LDK']",
+      "built_year": 2017,
+      "management_fee_raw": "5,800円",
+      "management_fees": "[5800]",
+      "access": "小田急小田原線｢千歳船橋｣駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.625525, 35.6475263] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム千石",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=580160&pgret=2",
+      "address": "文京区千石3-16-1,2",
+      "rent_raw": "104,200～198,300円（月額）",
+      "rent_from": 104200,
+      "rent_to": 198300,
+      "layout_raw": "1DK～3LDK",
+      "layouts": "['1DK', '3LDK']",
+      "built_year": 2009,
+      "management_fee_raw": "4,200円",
+      "management_fees": "[4200]",
+      "access": "都営地下鉄三田線「千石」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7380194, 35.7253892] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム千早",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1680120&pgret=2",
+      "address": "豊島区千早2-4-1",
+      "rent_raw": "101,600～145,400円（月額）",
+      "rent_from": 101600,
+      "rent_to": 145400,
+      "layout_raw": "1LDK～3DK",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 2005,
+      "management_fee_raw": "5,700円",
+      "management_fees": "[5700]",
+      "access": "西武池袋線「椎名町」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6924536, 35.7311612] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム前野町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980330&pgret=2",
+      "address": "板橋区前野町1-22-1",
+      "rent_raw": "81,400～128,300円（月額）",
+      "rent_from": 81400,
+      "rent_to": 128300,
+      "layout_raw": "2K～3DK",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2004,
+      "management_fee_raw": "3,700円",
+      "management_fees": "[3700]",
+      "access": "都営地下鉄三田線「板橋本町」駅下車徒歩11分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6973476, 35.7651897] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム多摩川",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180480&pgret=2",
+      "address": "大田区多摩川2-28-30",
+      "rent_raw": "116,200～170,100円（月額）",
+      "rent_from": 116200,
+      "rent_to": 170100,
+      "layout_raw": "1K～3LDK",
+      "layouts": "['1K', '3LDK']",
+      "built_year": 2005,
+      "management_fee_raw": "4,500円",
+      "management_fees": "[4500]",
+      "access": "東急多摩川線「矢口渡」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7003122, 35.5571955] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム太子堂",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280810&pgret=2",
+      "address": "世田谷区太子堂3-30-6",
+      "rent_raw": "94,700～180,400円（月額）",
+      "rent_from": 94700,
+      "rent_to": 180400,
+      "layout_raw": "１Ｒ～2DK+S",
+      "layouts": "['1R', '2DK+S']",
+      "built_year": 2007,
+      "management_fee_raw": "4,800円",
+      "management_fees": "[4800]",
+      "access": "東急田園都市線「三軒茶屋」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.670968, 35.6498746] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム大井町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=980220&pgret=2",
+      "address": "品川区二葉1-4-5",
+      "rent_raw": "110,500～161,700円（月額）",
+      "rent_from": 110500,
+      "rent_to": 161700,
+      "layout_raw": "2K～3DK",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2005,
+      "management_fee_raw": "3,400円",
+      "management_fees": "[3400]",
+      "access": "東急大井町線「下神明」駅下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7268785, 35.6077673] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム大森東",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180210&pgret=2",
+      "address": "大田区大森東1-35-4,5",
+      "rent_raw": "118,900～124,900円（月額）　",
+      "rent_from": 118900,
+      "rent_to": 124900,
+      "layout_raw": "2LDK・3DK",
+      "layouts": "['2LDK', '3DK']",
+      "built_year": 1983,
+      "management_fee_raw": "3,000円",
+      "management_fees": "[3000]",
+      "access": "京浜急行線「平和島」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7401749, 35.5768048] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム中村北",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2080530&pgret=2",
+      "address": "練馬区中村北2-2-6",
+      "rent_raw": "91,400～130,600円（月額）",
+      "rent_from": 91400,
+      "rent_to": 130600,
+      "layout_raw": "2K～3DK",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2003,
+      "management_fee_raw": "4,200円",
+      "management_fees": "[4200]",
+      "access": "西武池袋線「練馬」駅下車徒歩14分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6444551, 35.7371266] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム中野フロント",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1480015&pgret=2",
+      "address": "東京都中野区2-26-1",
+      "rent_raw": "120,900～237,100円（月額）",
+      "rent_from": 120900,
+      "rent_to": 237100,
+      "layout_raw": "１R～２LDK",
+      "layouts": "['1R', '2LDK']",
+      "built_year": 2019,
+      "management_fee_raw": "5,800円",
+      "management_fees": "[5800]",
+      "access": "JR中央線・総武線・東京メトロ東西線「中野」駅下車 徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6664944, 35.7041313] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム中野弥生町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1480320&pgret=2",
+      "address": "中野区弥生町6-2-1",
+      "rent_raw": "95,300～195,600円（月額）",
+      "rent_from": 95300,
+      "rent_to": 195600,
+      "layout_raw": "1DK～3LDK",
+      "layouts": "['1DK', '3LDK']",
+      "built_year": 2010,
+      "management_fee_raw": "4,900円",
+      "management_fees": "[4900]",
+      "access": "東京メトロ丸ノ内線「方南町」駅下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6626215, 35.68622000000001] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム仲池上",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180500&pgret=2",
+      "address": "大田区仲池上2-7-2",
+      "rent_raw": "82,800～144,000円（月額）",
+      "rent_from": 82800,
+      "rent_to": 144000,
+      "layout_raw": "1K～3DK",
+      "layouts": "['1K', '3DK']",
+      "built_year": 2008,
+      "management_fee_raw": "5,000円",
+      "management_fees": "[5000]",
+      "access": "都営地下鉄浅草線「西馬込」駅下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7023458, 35.5833165] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム仲六郷",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180450&pgret=2",
+      "address": "大田区仲六郷3-21-1",
+      "rent_raw": "83,200～125,600円（月額）",
+      "rent_from": 83200,
+      "rent_to": 125600,
+      "layout_raw": "2K～3DK",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2003,
+      "management_fee_raw": "3,500円",
+      "management_fees": "[3500]",
+      "access": "京浜急行線「雑色」駅下車徒歩11分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7094519, 35.5457225] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム田端テラス",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1780110&pgret=2",
+      "address": "北区田端5-13-13",
+      "rent_raw": "97,900～184,500円（月額）",
+      "rent_from": 97900,
+      "rent_to": 184500,
+      "layout_raw": "１Ｋ ～ ２LＤＫ+ＤＥＮ（書斎）",
+      "layouts": "['1K ', ' 2LDK+DEN(書斎)']",
+      "built_year": 2016,
+      "management_fee_raw": "4,800円 ",
+      "management_fees": "[4800]",
+      "access": "ＪＲ山手線「田端」駅下車徒歩７分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7557307, 35.73958289999999] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム東新宿",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=480200&pgret=2",
+      "address": "新宿区新宿7-2-2",
+      "rent_raw": "109,900～202,400円（月額）",
+      "rent_from": 109900,
+      "rent_to": 202400,
+      "layout_raw": "1DK～3DK",
+      "layouts": "['1DK', '3DK']",
+      "built_year": 2008,
+      "management_fee_raw": "6,000円",
+      "management_fees": "[6000]",
+      "access": "都営地下鉄大江戸線「東新宿」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7128578, 35.6983199] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム東村山栄町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4380120&pgret=2",
+      "address": "東村山市栄町3-14-19",
+      "rent_raw": "94,000～114,300円（月額）",
+      "rent_from": 94000,
+      "rent_to": 114300,
+      "layout_raw": "2LDK～4DK",
+      "layouts": "['2LDK', '4DK']",
+      "built_year": 1990,
+      "management_fee_raw": "2,800円",
+      "management_fees": "[2800]",
+      "access": "西武新宿線「久米川」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4689908, 35.7462844] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム南葛西五丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380140&pgret=2",
+      "address": "江戸川区南葛西5-18-1",
+      "rent_raw": "87,100～113,400円（月額）",
+      "rent_from": 87100,
+      "rent_to": 113400,
+      "layout_raw": "2LDK～4DK",
+      "layouts": "['2LDK', '4DK']",
+      "built_year": 1986,
+      "management_fee_raw": "2,800円",
+      "management_fees": "[2800]",
+      "access": "ＪＲ京葉線「葛西臨海公園」駅下車徒歩18分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8718064, 35.642667] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム南蒲田",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180460&pgret=2",
+      "address": "大田区南蒲田2-17-1",
+      "rent_raw": "90,300～139,100円（月額）",
+      "rent_from": 90300,
+      "rent_to": 139100,
+      "layout_raw": "2K～3DK",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2003,
+      "management_fee_raw": "3,300円",
+      "management_fees": "[3300]",
+      "access": "京浜急行線「京急蒲田」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7239709, 35.554799] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム南砂駅前",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880390&pgret=2",
+      "address": "江東区南砂3-14-1",
+      "rent_raw": "140,600～200,800円（月額）",
+      "rent_from": 140600,
+      "rent_to": 200800,
+      "layout_raw": "1LDK～3LDK",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 2005,
+      "management_fee_raw": "5,800円",
+      "management_fees": "[5800]",
+      "access": "東京メトロ東西線「南砂町」駅下車徒歩1分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.831998, 35.6688765] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム南大沢",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180200&pgret=2",
+      "address": "八王子市南大沢3-9-1",
+      "rent_raw": "65,500～73,700円（月額）",
+      "rent_from": 65500,
+      "rent_to": 73700,
+      "layout_raw": "2LDK～3DK",
+      "layouts": "['2LDK', '3DK']",
+      "built_year": 1983,
+      "management_fee_raw": "3,000円",
+      "management_fees": "[3000]",
+      "access": "京王相模原線「南大沢」駅下車徒歩13分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3797817, 35.6059653] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム南大沢五丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180270&pgret=2",
+      "address": "八王子市南大沢5-20-1",
+      "rent_raw": "67,800～110,100円（月額）",
+      "rent_from": 67800,
+      "rent_to": 110100,
+      "layout_raw": "2LDK～4LDK+Ｋ",
+      "layouts": "['2LDK', '4LDK+K']",
+      "built_year": 1993,
+      "management_fee_raw": "5,100円（1、6号棟）3,600円（2～5号棟、7～11号棟）",
+      "management_fees": "[5100, 3600]",
+      "access": "京王相模原線「南大沢」駅からバス約8分「パークフィーネ前」下車徒歩2分",
+      "comment": "エレベータは１、６、１１号棟のみ（１１号棟は１、３、５階のみで停止します。）"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3674224, 35.6102747] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム南大沢第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180210&pgret=2",
+      "address": "八王子市南大沢4-16-1",
+      "rent_raw": "73,400～83,100円（月額）",
+      "rent_from": 73400,
+      "rent_to": 83100,
+      "layout_raw": "2LDK～3LDK",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1988,
+      "management_fee_raw": "3,000円",
+      "management_fees": "[3000]",
+      "access": "京王相模原線「南大沢」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3765917, 35.6087282] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム日野神明",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4280090&pgret=2",
+      "address": "日野市神明3-9",
+      "rent_raw": "88,200～129,200円（月額）",
+      "rent_from": 88200,
+      "rent_to": 129200,
+      "layout_raw": "2LDK～4LDK+K",
+      "layouts": "['2LDK', '4LDK+K']",
+      "built_year": 1994,
+      "management_fee_raw": "6,600円",
+      "management_fees": "[6600]",
+      "access": "ＪＲ中央線「日野」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3938789, 35.6750196] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム日野大坂上",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4280100&pgret=2",
+      "address": "日野市大坂上4-13-3-1,2",
+      "rent_raw": "70,700～94,000円（月額）",
+      "rent_from": 70700,
+      "rent_to": 94000,
+      "layout_raw": "1LDK＋S～3LDK",
+      "layouts": "['1LDK+S', '3LDK']",
+      "built_year": 1994,
+      "management_fee_raw": "5,600円",
+      "management_fees": "[5600]",
+      "access": "ＪＲ中央線「日野」駅下車徒歩18分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3851975, 35.6708181] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム梅園二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5180050&pgret=2",
+      "address": "清瀬市梅園2-6-2",
+      "rent_raw": "64,300～71,000円（月額）",
+      "rent_from": 64300,
+      "rent_to": 71000,
+      "layout_raw": "2DK・3DK",
+      "layouts": "['2DK', '3DK']",
+      "built_year": 1985,
+      "management_fee_raw": "1,700円",
+      "management_fees": "[1700]",
+      "access": "西武池袋線「秋津」駅下車徒歩13分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5037113, 35.7739347] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム白鬚東",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=780030&pgret=2",
+      "address": "墨田区堤通2-13-1",
+      "rent_raw": "76,400～142,800円（月額）",
+      "rent_from": 76400,
+      "rent_to": 142800,
+      "layout_raw": "2DK～4LDK",
+      "layouts": "['2DK', '4LDK']",
+      "built_year": 1989,
+      "management_fee_raw": "3,000円",
+      "management_fees": "[3000]",
+      "access": "東武スカイツリーライン(伊勢崎線)「鐘ヶ淵」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8161251, 35.7368685] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム八王子緑町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180330&pgret=2",
+      "address": "八王子市緑町120-3-1",
+      "rent_raw": "55,700～76,000円（月額）",
+      "rent_from": 55700,
+      "rent_to": 76000,
+      "layout_raw": "２ＬＤＫ～４ＬＤＫ",
+      "layouts": "['2LDK', '4LDK']",
+      "built_year": 1992,
+      "management_fee_raw": "5,000円",
+      "management_fees": "[5000]",
+      "access": "ＪＲ中央線「八王子」駅下車徒歩19分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3287748, 35.6473648] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム八潮西",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=980110&pgret=2",
+      "address": "品川区八潮5-4-16,17",
+      "rent_raw": "96,200・99,500円（月額）",
+      "rent_from": 96200,
+      "rent_to": 99500,
+      "layout_raw": "３ＤＫ",
+      "layouts": "['3DK']",
+      "built_year": 1983,
+      "management_fee_raw": "3,600円（16号棟）・3,900（17号棟）円",
+      "management_fees": "[3600]",
+      "access": "東京モノレール羽田線「大井競馬場前」駅下車徒歩15分",
+      "comment": "16号棟にはエレベータがありません。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7509859, 35.6015162] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム八潮南",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=980120&pgret=2",
+      "address": "品川区八潮5-8-47",
+      "rent_raw": "95,800円（月額）",
+      "rent_from": 95800,
+      "rent_to": 95800,
+      "layout_raw": "３ＤＫ",
+      "layouts": "['3DK']",
+      "built_year": 1984,
+      "management_fee_raw": "3,400円",
+      "management_fees": "[3400]",
+      "access": "ＪＲ京浜東北線「大井町」駅からバス約17分「大井消防署八潮出張所前」下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7541474, 35.5968361] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム八潮北",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=980100&pgret=2",
+      "address": "品川区八潮5-2-7",
+      "rent_raw": "88,200円（月額）",
+      "rent_from": 88200,
+      "rent_to": 88200,
+      "layout_raw": "３ＤＫ",
+      "layouts": "['3DK']",
+      "built_year": 1983,
+      "management_fee_raw": "3,400円",
+      "management_fees": "[3400]",
+      "access": "ＪＲ京浜東北線「品川」駅からバス約18分「明晴学園前」下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7539877, 35.603593] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム美園町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4180140&pgret=2",
+      "address": "小平市美園町1-8-1",
+      "rent_raw": "103,500～110,600円（月額）",
+      "rent_from": 103500,
+      "rent_to": 110600,
+      "layout_raw": "2LDK",
+      "layouts": "['2LDK']",
+      "built_year": 1993,
+      "management_fee_raw": "2,400円",
+      "management_fees": "[2400]",
+      "access": "西武新宿線「小平」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4876766, 35.7360829] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム富士見台",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1480310&pgret=2",
+      "address": "中野区上鷺宮4-16-3",
+      "rent_raw": "104,500～149,500円（月額）",
+      "rent_from": 104500,
+      "rent_to": 149500,
+      "layout_raw": "1LDK～3DK",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 2005,
+      "management_fee_raw": "5,500円",
+      "management_fees": "[5500]",
+      "access": "西武池袋線「富士見台」駅下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6299476, 35.7347911] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム武蔵岡",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3980230&pgret=2",
+      "address": "町田市相原町3181",
+      "rent_raw": "60,400・67,300円（月額）",
+      "rent_from": 60400,
+      "rent_to": 67300,
+      "layout_raw": "3DK・3LDK",
+      "layouts": "['3DK', '3LDK']",
+      "built_year": 1990,
+      "management_fee_raw": "4,500円",
+      "management_fees": "[4500]",
+      "access": "京王相模原線「橋本」駅からバス約20分「円林寺前」下車徒歩1分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3013012, 35.6071795] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム方南町ガーデンコート",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1580250&pgret=2",
+      "address": "杉並区和泉4-44-1",
+      "rent_raw": "97,700～195,200円（月額）",
+      "rent_from": 97700,
+      "rent_to": 195200,
+      "layout_raw": "1DK～3LDK",
+      "layouts": "['1DK', '3LDK']",
+      "built_year": 2014,
+      "management_fee_raw": "5,500円",
+      "management_fees": "[5500]",
+      "access": "東京メトロ丸ノ内線「方南町」駅下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6544956, 35.680922] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム北千住",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2180430&pgret=2",
+      "address": "足立区日ノ出町26-1",
+      "rent_raw": "85,700～150,200円（月額）",
+      "rent_from": 85700,
+      "rent_to": 150200,
+      "layout_raw": "1DK～3DK",
+      "layouts": "['1DK', '3DK']",
+      "built_year": 2007,
+      "management_fee_raw": "4,300円",
+      "management_fees": "[4300]",
+      "access": "東京メトロ日比谷線「北千住」駅下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.808743, 35.751254] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム緑四丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=780050&pgret=2",
+      "address": "墨田区緑4-36-6",
+      "rent_raw": "112,500～139,400円（月額）",
+      "rent_from": 112500,
+      "rent_to": 139400,
+      "layout_raw": "1LDK～3DK",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 1991,
+      "management_fee_raw": "3,500円",
+      "management_fees": "[3500]",
+      "access": "ＪＲ総武線「錦糸町」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8075477, 35.6961781] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "コーシャハイム臨海町二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380160&pgret=2",
+      "address": "江戸川区臨海町2-2-7",
+      "rent_raw": "87,200～110,300円（月額）",
+      "rent_from": 87200,
+      "rent_to": 110300,
+      "layout_raw": "2LDK～4LDK",
+      "layouts": "['2LDK', '4LDK']",
+      "built_year": 1989,
+      "management_fee_raw": "3,800円",
+      "management_fees": "[3800]",
+      "access": "ＪＲ京葉線「葛西臨海公園」駅下車徒歩21分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8612747, 35.6528461] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "センターまちや",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1880030&pgret=2",
+      "address": "荒川区荒川7-50-9",
+      "rent_raw": "94,200～186,100円（月額）",
+      "rent_from": 94200,
+      "rent_to": 186100,
+      "layout_raw": "1LDK～3LDK",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 1996,
+      "management_fee_raw": "9,900円",
+      "management_fees": "[9900]",
+      "access": "京成線「町屋」駅下車徒歩1分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7807841, 35.7424388] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンタワー千住五丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2180310&pgret=2",
+      "address": "足立区千住5-13-5",
+      "rent_raw": "103,600～147,300円（月額）",
+      "rent_from": 103600,
+      "rent_to": 147300,
+      "layout_raw": "２ＤＫ～３ＬＤＫ",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 2000,
+      "management_fee_raw": "4,400円",
+      "management_fees": "[4400]",
+      "access": "ＪＲ常磐線「北千住」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8023579, 35.7563917] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンタワー多摩川二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180381&pgret=2",
+      "address": "大田区多摩川2-24-26",
+      "rent_raw": "101,800～161,600円（月額）",
+      "rent_from": 101800,
+      "rent_to": 161600,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1998,
+      "management_fee_raw": "5,000円",
+      "management_fees": "[5000]",
+      "access": "東急多摩川線「矢口渡」駅下車徒歩15分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7036264, 35.5552714] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンタワー台場一番街",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=380100&pgret=2",
+      "address": "港区台場1-1-2",
+      "rent_raw": "120,100～205,100円（月額）",
+      "rent_from": 120100,
+      "rent_to": 205100,
+      "layout_raw": "２ＤＫ～４ＬＤＫ",
+      "layouts": "['2DK', '4LDK']",
+      "built_year": 2000,
+      "management_fee_raw": "4,800円",
+      "management_fees": "[4800]",
+      "access": "東京臨海新交通ゆりかもめ「お台場海浜公園」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7767878, 35.6345168] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンタワー台場三番街",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=380070&pgret=2",
+      "address": "港区台場1-3-2",
+      "rent_raw": "135,900～231,200円（月額）",
+      "rent_from": 135900,
+      "rent_to": 231200,
+      "layout_raw": "１ＬＤＫ～３ＬＤＫ",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 1996,
+      "management_fee_raw": "5,600円",
+      "management_fees": "[5600]",
+      "access": "東京臨海新交通ゆりかもめ「お台場海浜公園」駅下車徒歩4分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7790276, 35.6319285] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンタワー東雲",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880290&pgret=2",
+      "address": "江東区東雲2-7-5",
+      "rent_raw": "128,000～212,900円（月額）",
+      "rent_from": 128000,
+      "rent_to": 212900,
+      "layout_raw": "２ＬＤＫ～４ＬＤＫ",
+      "layouts": "['2LDK', '4LDK']",
+      "built_year": 1997,
+      "management_fee_raw": "6,200円",
+      "management_fees": "[6200]",
+      "access": "東京メトロ有楽町線「辰巳」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8053948, 35.64352510000001] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンタワー南千住四丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1880040&pgret=2",
+      "address": "荒川区南千住4-9-7",
+      "rent_raw": "105,800～187,800円（月額）",
+      "rent_from": 105800,
+      "rent_to": 187800,
+      "layout_raw": "２ＤＫ～３ＬＤＫ",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 2000,
+      "management_fee_raw": "5,600円",
+      "management_fees": "[5600]",
+      "access": "ＪＲ常磐線「南千住」駅下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8039848, 35.736002] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンタワー飯田橋三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=180050&pgret=2",
+      "address": "千代田区飯田橋3-10-1",
+      "rent_raw": "201,900～274,700円（月額）",
+      "rent_from": 201900,
+      "rent_to": 274700,
+      "layout_raw": "１LＤＫ～３ＬＤＫ",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 1996,
+      "management_fee_raw": "4,500円",
+      "management_fees": "[4500]",
+      "access": "ＪＲ総武線「飯田橋」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.74978, 35.7000545] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンタワー浮間三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1780090&pgret=2",
+      "address": "北区浮間3-1-37",
+      "rent_raw": "110,200～157,200円（月額）",
+      "rent_from": 110200,
+      "rent_to": 157200,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1999,
+      "management_fee_raw": "6,600円",
+      "management_fees": "[6600]",
+      "access": "ＪＲ埼京線「北赤羽」駅下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7032574, 35.7872168] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム一之江",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380340&pgret=2",
+      "address": "江戸川区一之江8-5-3",
+      "rent_raw": "106,900～156,100円（月額）",
+      "rent_from": 106900,
+      "rent_to": 156100,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1997,
+      "management_fee_raw": "3,600円",
+      "management_fees": "[3600]",
+      "access": "都営地下鉄新宿線「一之江」駅下車徒歩4分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8825267, 35.6842167] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム塩浜二丁目第１",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880340&pgret=2",
+      "address": "江東区塩浜2-8-29",
+      "rent_raw": "87,500～115,300円（月額）",
+      "rent_from": 87500,
+      "rent_to": 115300,
+      "layout_raw": "２ＤＫ～３ＤＫ",
+      "layouts": "['2DK', '3DK']",
+      "built_year": 2000,
+      "management_fee_raw": "3,200円",
+      "management_fees": "[3200]",
+      "access": "東京メトロ東西線「木場」駅下車徒歩11分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8067643, 35.6635212] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム塩浜二丁目第２",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880350&pgret=2",
+      "address": "江東区塩浜2-9-8",
+      "rent_raw": "68,300～98,400円（月額）",
+      "rent_from": 68300,
+      "rent_to": 98400,
+      "layout_raw": "２ＤＫ～３ＤＫ",
+      "layouts": "['2DK', '3DK']",
+      "built_year": 2002,
+      "management_fee_raw": "3,200円",
+      "management_fees": "[3200]",
+      "access": "東京メトロ東西線「木場」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8075928, 35.6639695] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム横川一丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=780080&pgret=2",
+      "address": "墨田区横川1-15-1",
+      "rent_raw": "100,400～133,700円（月額）",
+      "rent_from": 100400,
+      "rent_to": 133700,
+      "layout_raw": "２ＬＤＫ～４ＤＫ",
+      "layouts": "['2LDK', '4DK']",
+      "built_year": 2000,
+      "management_fee_raw": "3,400円",
+      "management_fees": "[3400]",
+      "access": "東武スカイツリーライン(伊勢崎線)「とうきょうスカイツリー」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8084718, 35.7045081] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム恩多町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4380150&pgret=2",
+      "address": "東村山市恩多町5-40-6",
+      "rent_raw": "70,800～74,800円（月額）",
+      "rent_from": 70800,
+      "rent_to": 74800,
+      "layout_raw": "２ＬＤＫ",
+      "layouts": "['2LDK']",
+      "built_year": 1999,
+      "management_fee_raw": "4,500円",
+      "management_fees": "[4500]",
+      "access": "西武新宿線「久米川」駅からバス約6分「青葉町二丁目」下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4897104, 35.7580408] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム加平一丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2180330&pgret=2",
+      "address": "足立区加平1-9-1",
+      "rent_raw": "81,400～98,200円（月額）",
+      "rent_from": 81400,
+      "rent_to": 98200,
+      "layout_raw": "２ＤＫ・２ＬＤＫ",
+      "layouts": "['2DK', '2LDK']",
+      "built_year": 1998,
+      "management_fee_raw": "6,200円",
+      "management_fees": "[6200]",
+      "access": "東京メトロ千代田線「北綾瀬」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8267776, 35.7747419] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム海岸三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=380050&pgret=2",
+      "address": "港区海岸3-9-40",
+      "rent_raw": "136,300～192,300円（月額）",
+      "rent_from": 136300,
+      "rent_to": 192300,
+      "layout_raw": "１ＬＤＫ～３ＬＤＫ",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 1993,
+      "management_fee_raw": "5,000円",
+      "management_fees": "[5000]",
+      "access": "東京臨海新交通ゆりかもめ「芝浦ふ頭」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7541075, 35.6392087] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム久が原五丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180430&pgret=2",
+      "address": "大田区久が原5-1-1",
+      "rent_raw": "82,000～108,000円（月額）",
+      "rent_from": 82000,
+      "rent_to": 108000,
+      "layout_raw": "２Ｋ～３ＤＫ",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2002,
+      "management_fee_raw": "4,300円",
+      "management_fees": "[4300]",
+      "access": "東急池上線「池上」駅下車徒歩14分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6997928, 35.5797079] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム宮坂二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280730&pgret=2",
+      "address": "世田谷区宮坂2-24-26",
+      "rent_raw": "116,700～171,900円（月額）",
+      "rent_from": 116700,
+      "rent_to": 171900,
+      "layout_raw": "２Ｋ～３ＤＫ",
+      "layouts": "['2K', '3DK']",
+      "built_year": 1999,
+      "management_fee_raw": "6,800円",
+      "management_fees": "[6800]",
+      "access": "小田急小田原線「豪徳寺」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6424594, 35.6529991] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム玉川田園調布",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280560&pgret=2",
+      "address": "世田谷区玉川田園調布1-19-11,12",
+      "rent_raw": "174,900～199,000円（月額）",
+      "rent_from": 174900,
+      "rent_to": 199000,
+      "layout_raw": "１ＬＤＫ～３ＬＤＫ",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 1994,
+      "management_fee_raw": "7,800円",
+      "management_fees": "[7800]",
+      "access": "東急大井町線「九品仏」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6593935, 35.6003423] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム桂坂",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=380120&pgret=2",
+      "address": "港区高輪2-13-8",
+      "rent_raw": "138,700～147,400円（月額）",
+      "rent_from": 138700,
+      "rent_to": 147400,
+      "layout_raw": "２ＬＤＫ",
+      "layouts": "['2LDK']",
+      "built_year": 2001,
+      "management_fee_raw": "4,000円",
+      "management_fees": "[4000]",
+      "access": "都営地下鉄浅草線「泉岳寺」駅下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7378217, 35.6344009] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム古石場一丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880330&pgret=2",
+      "address": "江東区古石場1-12-3",
+      "rent_raw": "110,100～129,200円（月額）",
+      "rent_from": 110100,
+      "rent_to": 129200,
+      "layout_raw": "２ＤＫ～３ＬＤＫ",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 2000,
+      "management_fee_raw": "3,500円",
+      "management_fees": "[3500]",
+      "access": "東京メトロ東西線「門前仲町」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7965642, 35.6682379] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム古石場二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880300&pgret=2",
+      "address": "江東区古石場2-13-1",
+      "rent_raw": "146,700～187,700円（月額）",
+      "rent_from": 146700,
+      "rent_to": 187700,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1997,
+      "management_fee_raw": "4,400円",
+      "management_fees": "[4400]",
+      "access": "ＪＲ京葉線「越中島」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7993883, 35.6670422] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム国分寺泉町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4480070&pgret=2",
+      "address": "国分寺市泉町2-6-1",
+      "rent_raw": "87,400～153,900円（月額）",
+      "rent_from": 87400,
+      "rent_to": 153900,
+      "layout_raw": "２ＤＫ～４ＬＤＫ",
+      "layouts": "['2DK', '4LDK']",
+      "built_year": 2000,
+      "management_fee_raw": "4,000円",
+      "management_fees": "[4000]",
+      "access": "ＪＲ中央線「西国分寺」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4676821, 35.6978048] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム三田二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=380060&pgret=2",
+      "address": "港区三田2-20-14",
+      "rent_raw": "139,100～198,500円（月額）",
+      "rent_from": 139100,
+      "rent_to": 198500,
+      "layout_raw": "１ＬＤＫ～３ＬＤＫ",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 1993,
+      "management_fee_raw": "7,000円",
+      "management_fees": "[7000]",
+      "access": "東京メトロ南北線「麻布十番」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7388177, 35.6481114] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム舟渡二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980290&pgret=2",
+      "address": "板橋区舟渡2-31-1",
+      "rent_raw": "86,500～113,800円（月額）",
+      "rent_from": 86500,
+      "rent_to": 113800,
+      "layout_raw": "２ＤＫ～３ＬＤＫ",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 2001,
+      "management_fee_raw": "3,700円",
+      "management_fees": "[3700]",
+      "access": "ＪＲ埼京線「浮間舟渡」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6896617, 35.7962169] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム小金井中町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4080070&pgret=2",
+      "address": "小金井市中町3-19-12",
+      "rent_raw": "110,900～146,500円（月額）",
+      "rent_from": 110900,
+      "rent_to": 146500,
+      "layout_raw": "１ＬＤＫ～４ＬＤＫ",
+      "layouts": "['1LDK', '4LDK']",
+      "built_year": 1996,
+      "management_fee_raw": "6,200円",
+      "management_fees": "[6200]",
+      "access": "ＪＲ中央線「武蔵小金井」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5128552, 35.7000382] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム小松川",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380360&pgret=2",
+      "address": "江戸川区小松川1-2-4",
+      "rent_raw": "105,800～179,200円（月額）",
+      "rent_from": 105800,
+      "rent_to": 179200,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1995,
+      "management_fee_raw": "4,200円",
+      "management_fees": "[4200]",
+      "access": "都営地下鉄新宿線「東大島」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8498505, 35.68758510000001] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム小豆沢",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980270&pgret=2",
+      "address": "板橋区小豆沢2-31-1",
+      "rent_raw": "76,900～124,700円（月額）",
+      "rent_from": 76900,
+      "rent_to": 124700,
+      "layout_raw": "２Ｋ～３ＤＫ",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2000,
+      "management_fee_raw": "4,200円",
+      "management_fees": "[4200]",
+      "access": "都営地下鉄三田線「志村坂上」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7017175, 35.7780552] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム松江二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380350&pgret=2",
+      "address": "江戸川区松江2-15-8",
+      "rent_raw": "102,100～134,000円（月額）",
+      "rent_from": 102100,
+      "rent_to": 134000,
+      "layout_raw": "１ＬＤＫ＋Ｓ～３ＬＤＫ",
+      "layouts": "['1LDK+S', '3LDK']",
+      "built_year": 1995,
+      "management_fee_raw": "4,700円",
+      "management_fees": "[4700]",
+      "access": "ＪＲ総武線「新小岩」駅からバス約11分「京葉交差点」下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8718864, 35.7028823] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム上柚木",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180390&pgret=2",
+      "address": "八王子市上柚木3-14-1",
+      "rent_raw": "69,900～109,800円（月額）",
+      "rent_from": 69900,
+      "rent_to": 109800,
+      "layout_raw": "２ＬＤＫ～４ＬＤＫ",
+      "layouts": "['2LDK', '4LDK']",
+      "built_year": 1996,
+      "management_fee_raw": "4,200円・5,700円",
+      "management_fees": "[4200, 5700]",
+      "access": "京王相模原線「南大沢」駅下車徒歩17分",
+      "comment": "エレベータは２、３、５号棟のみ設置されています。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.368369, 35.615065] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム成増三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980190&pgret=2",
+      "address": "板橋区成増3-13-1",
+      "rent_raw": "120,200～164,400円（月額）",
+      "rent_from": 120200,
+      "rent_to": 164400,
+      "layout_raw": "１ＬＤＫ～４ＬＤＫ",
+      "layouts": "['1LDK', '4LDK']",
+      "built_year": 1997,
+      "management_fee_raw": "11,000円",
+      "management_fees": "[11000]",
+      "access": "東武東上線「成増」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.63236, 35.7788457] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム西五反田四丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=980190&pgret=2",
+      "address": "品川区西五反田4-5-1、2",
+      "rent_raw": "156,000～176,200円（月額）",
+      "rent_from": 156000,
+      "rent_to": 176200,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1998,
+      "management_fee_raw": "4,800円",
+      "management_fees": "[4800]",
+      "access": "東急目黒線「不動前」駅下車徒歩4分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7113827, 35.627077] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム船堀三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380410&pgret=2",
+      "address": "江戸川区船堀3-16-7",
+      "rent_raw": "118,200～151,000円（月額）",
+      "rent_from": 118200,
+      "rent_to": 151000,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1998,
+      "management_fee_raw": "5,600円",
+      "management_fees": "[5600]",
+      "access": "都営地下鉄新宿線「船堀」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.866806, 35.6817182] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム船堀七丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380370&pgret=2",
+      "address": "江戸川区船堀7-11-3",
+      "rent_raw": "108,300～137,400円（月額）",
+      "rent_from": 108300,
+      "rent_to": 137400,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1995,
+      "management_fee_raw": "6,800円",
+      "management_fees": "[6800]",
+      "access": "都営地下鉄新宿線「船堀」駅下車徒歩13分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8696462, 35.677431] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム多摩川二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180380&pgret=2",
+      "address": "大田区多摩川2-24-25、27",
+      "rent_raw": "109,000～157,800円（月額）",
+      "rent_from": 109000,
+      "rent_to": 157800,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1998,
+      "management_fee_raw": "5,000円",
+      "management_fees": "[5000]",
+      "access": "東急多摩川線「矢口渡」駅下車徒歩15分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7036264, 35.5552714] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム台場五番街",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=380090&pgret=2",
+      "address": "港区台場1-5-7(中層棟)1-5-4(高層棟)",
+      "rent_raw": "150,000～239,800円（月額）",
+      "rent_from": 150000,
+      "rent_to": 239800,
+      "layout_raw": "１ＬＤＫ～４ＬＤＫ",
+      "layouts": "['1LDK', '4LDK']",
+      "built_year": 1996,
+      "management_fee_raw": "5,200円・6,700円",
+      "management_fees": "[5200, 6700]",
+      "access": "東京臨海新交通ゆりかもめ「お台場海浜公園」駅下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7788269, 35.6305573] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム台場三番街",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=380080&pgret=2",
+      "address": "港区台場1-3-3",
+      "rent_raw": "151,800～213,200円（月額）",
+      "rent_from": 151800,
+      "rent_to": 213200,
+      "layout_raw": "１ＬＤＫ～４ＬＤＫ",
+      "layouts": "['1LDK', '4LDK']",
+      "built_year": 1996,
+      "management_fee_raw": "3,300円",
+      "management_fees": "[3300]",
+      "access": "東京臨海新交通ゆりかもめ「お台場海浜公園」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7786059, 35.6316934] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム大森西",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180370&pgret=2",
+      "address": "大田区大森西3-1-25",
+      "rent_raw": "125,800～159,600円（月額）",
+      "rent_from": 125800,
+      "rent_to": 159600,
+      "layout_raw": "２ＬＤＫ＋Ｓ・３ＬＤＫ",
+      "layouts": "['2LDK+S', '3LDK']",
+      "built_year": 1996,
+      "management_fee_raw": "6,000円",
+      "management_fees": "[6000]",
+      "access": "京浜急行線「大森町」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7271279, 35.5746993] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム大島五丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880280&pgret=2",
+      "address": "江東区大島5-10-10",
+      "rent_raw": "132,900～172,700円（月額）",
+      "rent_from": 132900,
+      "rent_to": 172700,
+      "layout_raw": "２ＤＫ＋Ｓ～４ＬＤＫ",
+      "layouts": "['2DK+S', '4LDK']",
+      "built_year": 1997,
+      "management_fee_raw": "7,400円",
+      "management_fees": "[7400]",
+      "access": "都営地下鉄新宿線「大島」駅下車徒歩1分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8341734, 35.6892085] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム仲之町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=480180&pgret=2",
+      "address": "新宿区市谷仲之町4-27",
+      "rent_raw": "103,200～143,600円（月額）",
+      "rent_from": 103200,
+      "rent_to": 143600,
+      "layout_raw": "２Ｋ～３ＤＫ",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2001,
+      "management_fee_raw": "5,500円",
+      "management_fees": "[5500]",
+      "access": "都営地下鉄新宿線「曙橋」駅下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7226141, 35.6961907] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム東新小岩六丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2280150&pgret=2",
+      "address": "葛飾区東新小岩6-21-1",
+      "rent_raw": "87,400～112,800円（月額）",
+      "rent_from": 87400,
+      "rent_to": 112800,
+      "layout_raw": "２ＤＫ～３ＬＤＫ",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 2001,
+      "management_fee_raw": "2,300円",
+      "management_fees": "[2300]",
+      "access": "ＪＲ総武快速線「新小岩」駅下車徒歩11分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8588936, 35.7243104] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム東品川三丁目第一",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=980200&pgret=2",
+      "address": "品川区東品川3-20-1",
+      "rent_raw": "141,900～170,400円（月額）",
+      "rent_from": 141900,
+      "rent_to": 170400,
+      "layout_raw": "１ＬＤＫ＋Ｓ～４ＬＤＫ",
+      "layouts": "['1LDK+S', '4LDK']",
+      "built_year": 1997,
+      "management_fee_raw": "4,200円",
+      "management_fees": "[4200]",
+      "access": "東京臨海高速鉄道りんかい線「品川シーサイド」駅下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7482386, 35.613637] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム東品川三丁目第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=980201&pgret=2",
+      "address": "品川区東品川3-19-2",
+      "rent_raw": "128,500～162,400円（月額）",
+      "rent_from": 128500,
+      "rent_to": 162400,
+      "layout_raw": "１ＬＤＫ＋Ｓ～４ＬＤＫ",
+      "layouts": "['1LDK+S', '4LDK']",
+      "built_year": 1997,
+      "management_fee_raw": "4,200円",
+      "management_fees": "[4200]",
+      "access": "東京臨海高速鉄道りんかい線「品川シーサイド」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7490371, 35.6133828] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム東陽六丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880270&pgret=2",
+      "address": "江東区東陽6-2-27",
+      "rent_raw": "112,400～167,800円（月額）",
+      "rent_from": 112400,
+      "rent_to": 167800,
+      "layout_raw": "１ＬＤＫ～３ＬＤＫ",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 1994,
+      "management_fee_raw": "5,000円",
+      "management_fees": "[5000]",
+      "access": "東京メトロ東西線「木場」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8129079, 35.6751027] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム南砂一丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880360&pgret=2",
+      "address": "江東区南砂1-18-1",
+      "rent_raw": "95,900～121,800円（月額）",
+      "rent_from": 95900,
+      "rent_to": 121800,
+      "layout_raw": "２ＤＫ～３ＤＫ",
+      "layouts": "['2DK', '3DK']",
+      "built_year": 2000,
+      "management_fee_raw": "4,200円",
+      "management_fees": "[4200]",
+      "access": "東京メトロ東西線「東陽町」駅下車徒歩15分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8223805, 35.6774212] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム南篠崎町五丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380240&pgret=2",
+      "address": "江戸川区南篠崎町5-13-24",
+      "rent_raw": "83,600～135,900円（月額）",
+      "rent_from": 83600,
+      "rent_to": 135900,
+      "layout_raw": "１ＬＤＫ～３ＬＤＫ",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 1994,
+      "management_fee_raw": "5,500円",
+      "management_fees": "[5500]",
+      "access": "都営地下鉄新宿線「瑞江」駅下車徒歩20分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.9110232, 35.6953877] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム南篠崎町五丁目第２",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380420&pgret=2",
+      "address": "江戸川区南篠崎町5-13-40、41",
+      "rent_raw": "91,900～141,900円（月額）",
+      "rent_from": 91900,
+      "rent_to": 141900,
+      "layout_raw": "２ＬＤＫ～４ＬＤＫ",
+      "layouts": "['2LDK', '4LDK']",
+      "built_year": 1999,
+      "management_fee_raw": "4,000円",
+      "management_fees": "[4000]",
+      "access": "都営地下鉄新宿線「瑞江」駅下車徒歩20分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.9104977, 35.6945545] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム南台三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1480270&pgret=2",
+      "address": "中野区南台3-22-1",
+      "rent_raw": "103,600～151,300円（月額）",
+      "rent_from": 103600,
+      "rent_to": 151300,
+      "layout_raw": "２Ｋ～３ＤＫ",
+      "layouts": "['2K', '3DK']",
+      "built_year": 2001,
+      "management_fee_raw": "5,400円",
+      "management_fees": "[5400]",
+      "access": "東京メトロ丸ノ内線「中野富士見町」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6672001, 35.6856325] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム南大井五丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=980210&pgret=2",
+      "address": "品川区南大井5-21-1",
+      "rent_raw": "101,200～158,400円（月額）",
+      "rent_from": 101200,
+      "rent_to": 158400,
+      "layout_raw": "１ＬＤＫ～３ＤＫ",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 1999,
+      "management_fee_raw": "3,500円",
+      "management_fees": "[3500]",
+      "access": "ＪＲ京浜東北線「大森」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7324619, 35.5943991] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム南大沢西",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180420&pgret=2",
+      "address": "八王子市南大沢4-24-1",
+      "rent_raw": "68,800～101,400円（月額）",
+      "rent_from": 68800,
+      "rent_to": 101400,
+      "layout_raw": "２ＬＤＫ～４ＬＤＫ",
+      "layouts": "['2LDK', '4LDK']",
+      "built_year": 1996,
+      "management_fee_raw": "4,300円",
+      "management_fees": "[4300]",
+      "access": "京王相模原線「南大沢」駅下車徒歩19分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3796348, 35.6038307] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム南大沢東",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180410&pgret=2",
+      "address": "八王子市南大沢3-16-2-1",
+      "rent_raw": "65,400～104,700円（月額）",
+      "rent_from": 65400,
+      "rent_to": 104700,
+      "layout_raw": "２ＬＤＫ～４ＬＤＫ",
+      "layouts": "['2LDK', '4LDK']",
+      "built_year": 1997,
+      "management_fee_raw": "5,500円",
+      "management_fees": "[5500]",
+      "access": "京王相模原線「南大沢」駅下車徒歩18分",
+      "comment": "２号棟は渡り廊下を使って３号棟のエレベータを利用します。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3832015, 35.6035651] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム南六郷二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1180420&pgret=2",
+      "address": "大田区南六郷2-22-1、2",
+      "rent_raw": "74,500～100,500円（月額）",
+      "rent_from": 74500,
+      "rent_to": 100500,
+      "layout_raw": "２ＤＫ～３ＬＤＫ",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 2002,
+      "management_fee_raw": "5,000円",
+      "management_fees": "[5000]",
+      "access": "京浜急行線「雑色」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7193171, 35.5458557] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム北砂一丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880320&pgret=2",
+      "address": "江東区北砂1-3-19",
+      "rent_raw": "114,700～162,800円（月額）",
+      "rent_from": 114700,
+      "rent_to": 162800,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1999,
+      "management_fee_raw": "3,700円",
+      "management_fees": "[3700]",
+      "access": "都営地下鉄新宿線「西大島」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8226203, 35.6841925] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム北青山一丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=380110&pgret=2",
+      "address": "港区北青山1-6-5",
+      "rent_raw": "180,700～233,100円（月額）",
+      "rent_from": 180700,
+      "rent_to": 233100,
+      "layout_raw": "２ＤＫ～３ＬＤＫ",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 2000,
+      "management_fee_raw": "7,200円",
+      "management_fees": "[7200]",
+      "access": "東京メトロ銀座線「青山一丁目」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7207429, 35.6739947] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム墨田一丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=780070&pgret=2",
+      "address": "墨田区墨田1-4-1",
+      "rent_raw": "112,100～156,200円（月額）",
+      "rent_from": 112100,
+      "rent_to": 156200,
+      "layout_raw": "２ＬＤＫ～４ＬＤＫ",
+      "layouts": "['2LDK', '4LDK']",
+      "built_year": 2000,
+      "management_fee_raw": "5,300円",
+      "management_fees": "[5300]",
+      "access": "東武スカイツリーライン(伊勢崎線)「東向島」駅下車徒歩10分",
+      "comment": "当住宅の敷地内に交番があります。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8136173, 35.7285659] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム薬王寺",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=480170&pgret=2",
+      "address": "新宿区市谷薬王寺町46",
+      "rent_raw": "96,100～187,100円（月額）",
+      "rent_from": 96100,
+      "rent_to": 187100,
+      "layout_raw": "１ＬＤＫ～３ＬＤＫ",
+      "layouts": "['1LDK', '3LDK']",
+      "built_year": 1998,
+      "management_fee_raw": "5,400円",
+      "management_fees": "[5400]",
+      "access": "都営地下鉄新宿線「曙橋」駅下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7243599, 35.6960941] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム鑓水",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180450&pgret=2",
+      "address": "八王子市鑓水2-82-1",
+      "rent_raw": "68,400～111,700円（月額）",
+      "rent_from": 68400,
+      "rent_to": 111700,
+      "layout_raw": "１ＬＤＫ～４ＬＤＫ",
+      "layouts": "['1LDK', '4LDK']",
+      "built_year": 1998,
+      "management_fee_raw": "5,500円・6,300円",
+      "management_fees": "[5500, 6300]",
+      "access": "京王相模原線「南大沢」駅下車徒歩19分",
+      "comment": "３号棟にエレベータはありません。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3673063, 35.6113544] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム立川泉町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3280140&pgret=2",
+      "address": "立川市泉町1156-4",
+      "rent_raw": "87,400～111,800円（月額）",
+      "rent_from": 87400,
+      "rent_to": 111800,
+      "layout_raw": "２ＬＤＫ～４ＬＤＫ",
+      "layouts": "['2LDK', '4LDK']",
+      "built_year": 1998,
+      "management_fee_raw": "4,600円",
+      "management_fees": "[4600]",
+      "access": "ＪＲ中央線「立川」駅からバス約4分「立川学術プラザ」下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4089386, 35.7140979] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム練馬氷川台",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2080340&pgret=2",
+      "address": "練馬区氷川台3-22-11",
+      "rent_raw": "127,600～155,200円（月額）",
+      "rent_from": 127600,
+      "rent_to": 155200,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1995,
+      "management_fee_raw": "5,700円",
+      "management_fees": "[5700]",
+      "access": "東京メトロ有楽町線「氷川台」駅下車徒歩5分",
+      "comment": "エアコンの設置がない住戸もあります。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6683135, 35.750826] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "トミンハイム蓮根二丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980280&pgret=2",
+      "address": "板橋区蓮根2-31-21",
+      "rent_raw": "94,300～120,700円（月額）",
+      "rent_from": 94300,
+      "rent_to": 120700,
+      "layout_raw": "２ＤＫ～３ＬＤＫ",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 2001,
+      "management_fee_raw": "4,700円",
+      "management_fees": "[4700]",
+      "access": "都営地下鉄三田線「蓮根」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6785426, 35.7850327] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "プラッツ砧",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280700&pgret=2",
+      "address": "世田谷区砧8-10-1",
+      "rent_raw": "128,800～183,900円（月額）",
+      "rent_from": 128800,
+      "rent_to": 183900,
+      "layout_raw": "２ＤＫ～３ＬＤＫ",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 2000,
+      "management_fee_raw": "6,000円",
+      "management_fees": "[6000]",
+      "access": "小田急小田原線「祖師ヶ谷大蔵」駅下車徒歩1分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6083247, 35.6424832] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "リバーブリーズ綾瀬",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2280070&pgret=2",
+      "address": "葛飾区小菅1-27-7",
+      "rent_raw": "82,500～94,200円（月額）",
+      "rent_from": 82500,
+      "rent_to": 94200,
+      "layout_raw": "２ＬＤＫ・３ＬＤＫ",
+      "layouts": "['2LDK', '3LDK']",
+      "built_year": 1993,
+      "management_fee_raw": "7,200円",
+      "management_fees": "[7200]",
+      "access": "東武スカイツリーライン(伊勢崎線)「小菅」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8172643, 35.7565189] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "愛宕第一",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5480030&pgret=2",
+      "address": "多摩市愛宕1-1-1,2",
+      "rent_raw": "44,600・46,100円（月額）",
+      "rent_from": 44600,
+      "rent_to": 46100,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1972,
+      "management_fee_raw": "2,800円",
+      "management_fees": "[2800]",
+      "access": "京王線「聖蹟桜ヶ丘」駅からバス約13分「愛宕東」下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4361495, 35.6351245] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "愛宕第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5480050&pgret=2",
+      "address": "多摩市愛宕4-53-1",
+      "rent_raw": "59,000・60,100円（月額）",
+      "rent_from": 59000,
+      "rent_to": 60100,
+      "layout_raw": "１ＬＤＫ～２ＤＫ",
+      "layouts": "['1LDK', '2DK']",
+      "built_year": 1973,
+      "management_fee_raw": "2,700円",
+      "management_fees": "[2700]",
+      "access": "小田急多摩線「多摩センター」駅からバス約4分「愛宕四丁目」下車徒歩1分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4296791, 35.6315464] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "宇喜田第一",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380010&pgret=2",
+      "address": "江戸川区北葛西5-18-1",
+      "rent_raw": "62,200～68,400円（月額）",
+      "rent_from": 62200,
+      "rent_to": 68400,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1972,
+      "management_fee_raw": "2,700円",
+      "management_fees": "[2700]",
+      "access": "東京メトロ東西線「西葛西」駅下車徒歩18分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8657996, 35.6734639] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "宇喜田第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380030&pgret=2",
+      "address": "江戸川区北葛西2-19-1",
+      "rent_raw": "71,000～74,800円（月額）",
+      "rent_from": 71000,
+      "rent_to": 74800,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1973,
+      "management_fee_raw": "2,400円",
+      "management_fees": "[2400]",
+      "access": "都営地下鉄新宿線「船堀」駅下車徒歩18分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8566757, 35.6752064] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "烏山松葉通",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280160&pgret=2",
+      "address": "世田谷区北烏山3-1-1",
+      "rent_raw": "40,800～50,000円（月額）",
+      "rent_from": 40800,
+      "rent_to": 50000,
+      "layout_raw": "2K・2DK",
+      "layouts": "['2K', '2DK']",
+      "built_year": 1960,
+      "management_fee_raw": "1,800円",
+      "management_fees": "[1800]",
+      "access": "京王線「千歳烏山」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.601933, 35.6736085] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "烏山北",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280230&pgret=2",
+      "address": "世田谷区北烏山2-3-7",
+      "rent_raw": "51,300～81,800円（月額）",
+      "rent_from": 51300,
+      "rent_to": 81800,
+      "layout_raw": "2K～3K",
+      "layouts": "['2K', '3K']",
+      "built_year": 1966,
+      "management_fee_raw": "2,500円",
+      "management_fees": "[2500]",
+      "access": "京王線「千歳烏山」駅下車徒歩17分",
+      "comment": "31号棟のみＣＡＴＶの設備が設置されておりません。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6008897, 35.6801244] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "越中島",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880070&pgret=2",
+      "address": "江東区越中島3-5-27",
+      "rent_raw": "76,500～89,200円（月額）",
+      "rent_from": 76500,
+      "rent_to": 89200,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1972,
+      "management_fee_raw": "3,000円",
+      "management_fees": "[3000]",
+      "access": "ＪＲ京葉線「越中島」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8008594, 35.6647358] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "塩浜",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880130&pgret=2",
+      "address": "江東区塩浜1-5-5",
+      "rent_raw": "94,200円（月額）",
+      "rent_from": 94200,
+      "rent_to": 94200,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1978,
+      "management_fee_raw": "2,900円",
+      "management_fees": "[2900]",
+      "access": "東京メトロ有楽町線「豊洲」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8015945, 35.6592778] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "横川町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180120&pgret=2",
+      "address": "八王子市横川町108-1",
+      "rent_raw": "51,300～62,100円（月額）",
+      "rent_from": 51300,
+      "rent_to": 62100,
+      "layout_raw": "2DK・3DK",
+      "layouts": "['2DK', '3DK']",
+      "built_year": 1980,
+      "management_fee_raw": "2,700円",
+      "management_fees": "[2700]",
+      "access": "ＪＲ中央線「西八王子」駅からバス約6分「住宅中央」下車徒歩2分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.308849, 35.6660563] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "下里第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5280040&pgret=2",
+      "address": "東久留米市野火止3-4-1",
+      "rent_raw": "68,300・69,900円（月額）",
+      "rent_from": 68300,
+      "rent_to": 69900,
+      "layout_raw": "3DK",
+      "layouts": "['3DK']",
+      "built_year": 1982,
+      "management_fee_raw": "1,100円",
+      "management_fees": "[1100]",
+      "access": "西武池袋線「清瀬」駅からバス約9分「押出し橋」下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5098013, 35.7611889] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "霞台【霞台第一】（１～１２号棟）",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3580010&pgret=2",
+      "address": "青梅市河辺町9-6-1-1",
+      "rent_raw": "32,900～50,700円（月額）",
+      "rent_from": 32900,
+      "rent_to": 50700,
+      "layout_raw": "２ＤＫ～３Ｋ",
+      "layouts": "['2DK', '3K']",
+      "built_year": 1971,
+      "management_fee_raw": "1,600円",
+      "management_fees": "[1600]",
+      "access": "ＪＲ青梅線「河辺」駅下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.2887178, 35.7840144] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "霞台【霞台第二】（１３～２３号棟）",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3580011&pgret=2",
+      "address": "青梅市野上町3-9-1-1",
+      "rent_raw": "32,000～47,700円（月額）",
+      "rent_from": 32000,
+      "rent_to": 47700,
+      "layout_raw": "２ＤＫ～３Ｋ",
+      "layouts": "['2DK', '3K']",
+      "built_year": 1971,
+      "management_fee_raw": "1,800円",
+      "management_fees": "[1800]",
+      "access": "ＪＲ青梅線「河辺」駅下車徒歩11分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.2880048, 35.7910705] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "亀戸九丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880180&pgret=2",
+      "address": "江東区亀戸9-33-1",
+      "rent_raw": "94,900・97,200円（月額）",
+      "rent_from": 94900,
+      "rent_to": 97200,
+      "layout_raw": "3DK",
+      "layouts": "['3DK']",
+      "built_year": 1980,
+      "management_fee_raw": "3,400円",
+      "management_fees": "[3400]",
+      "access": "ＪＲ総武線「平井」駅下車徒歩14分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8423699, 35.6996281] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "久米川駅東",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4380070&pgret=2",
+      "address": "東村山市萩山町5-3-1",
+      "rent_raw": "38,700～59,700円（月額）",
+      "rent_from": 38700,
+      "rent_to": 59700,
+      "layout_raw": "2K～3K",
+      "layouts": "['2K', '3K']",
+      "built_year": 1965,
+      "management_fee_raw": "2,300円",
+      "management_fees": "[2300]",
+      "access": "西武新宿線「久米川」駅下車徒歩9分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4779366, 35.74863089999999] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "久留米下里",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5280030&pgret=2",
+      "address": "東久留米市下里7-8-1",
+      "rent_raw": "37,300～50,100円（月額）",
+      "rent_from": 37300,
+      "rent_to": 50100,
+      "layout_raw": "2DK・3K",
+      "layouts": "['2DK', '3K']",
+      "built_year": 1972,
+      "management_fee_raw": "1,100円",
+      "management_fees": "[1100]",
+      "access": "西武池袋線「清瀬」駅からバス約13分「下里団地」下車徒歩4分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5018014, 35.7603616] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "久留米西",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5280020&pgret=2",
+      "address": "東久留米市下里4-1-1",
+      "rent_raw": "30,200～53,200円（月額）",
+      "rent_from": 30200,
+      "rent_to": 53200,
+      "layout_raw": "２Ｋ～３Ｋ",
+      "layouts": "['2K', '3K']",
+      "built_year": 1969,
+      "management_fee_raw": "1,600円",
+      "management_fees": "[1600]",
+      "access": "西武池袋線「東久留米」駅からバス約13分「久留米西団地」下車徒歩3分",
+      "comment": "当住宅の敷地内に駐在所があります。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4991805, 35.7542211] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "境川",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3980140&pgret=2",
+      "address": "町田市木曽東2",
+      "rent_raw": "36,500～60,400円（月額）",
+      "rent_from": 36500,
+      "rent_to": 60400,
+      "layout_raw": "2K～3K",
+      "layouts": "['2K', '3K']",
+      "built_year": 1968,
+      "management_fee_raw": "1,300円",
+      "management_fees": "[1300]",
+      "access": "ＪＲ横浜線「古淵」駅下車徒歩9分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.424045, 35.5581739] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "興野町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2180040&pgret=2",
+      "address": "足立区西新井本町4-16",
+      "rent_raw": "38,300～94,100円（月額）",
+      "rent_from": 38300,
+      "rent_to": 94100,
+      "layout_raw": "1R～2K",
+      "layouts": "['1R', '2K']",
+      "built_year": 1959,
+      "management_fee_raw": "1,500円",
+      "management_fees": "[1500]",
+      "access": "JR常磐線、東京メトロ千代田線・日比谷線・東武スカイツリーライン（伊勢崎線）、首都圏新都市鉄道つくばエクスプレス線「北千住」駅からバス約13分「興野公団住宅」下車 徒歩4分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7784674, 35.7719766] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "熊川",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4880010&pgret=2",
+      "address": "福生市熊川95",
+      "rent_raw": "23,000～42,500円（月額）",
+      "rent_from": 23000,
+      "rent_to": 42500,
+      "layout_raw": "２Ｋ～３Ｋ",
+      "layouts": "['2K', '3K']",
+      "built_year": 1963,
+      "management_fee_raw": "1,800円",
+      "management_fees": "[1800]",
+      "access": "ＪＲ青梅線「拝島」駅下車徒歩18分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.333792, 35.7145074] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "江の島道東",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3280020&pgret=2",
+      "address": "立川市栄町5-28-1",
+      "rent_raw": "39,500～60,800円（月額）",
+      "rent_from": 39500,
+      "rent_to": 60800,
+      "layout_raw": "2K～2DK＋S",
+      "layouts": "['2K', '2DK+S']",
+      "built_year": 1962,
+      "management_fee_raw": "1,800円",
+      "management_fees": "[1800]",
+      "access": "ＪＲ中央線「立川」駅からバス約9分「公社住宅」下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4256164, 35.7162685] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "江古田",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1480100&pgret=2",
+      "address": "中野区江原町1-23-1",
+      "rent_raw": "32,900～45,700円（月額）",
+      "rent_from": 32900,
+      "rent_to": 45700,
+      "layout_raw": "1DK～2DK",
+      "layouts": "['1DK', '2DK']",
+      "built_year": 1958,
+      "management_fee_raw": "2,000円",
+      "management_fees": "[2000]",
+      "access": "ＪＲ中央線「中野」駅からバス約13分「江古田住宅」下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6729902, 35.7271488] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "高ケ坂",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3980030&pgret=2",
+      "address": "町田市高ヶ坂3-35",
+      "rent_raw": "31,700～59,500円（月額）",
+      "rent_from": 31700,
+      "rent_to": 59500,
+      "layout_raw": "２Ｋ～３Ｋ",
+      "layouts": "['2K', '3K']",
+      "built_year": 1962,
+      "management_fee_raw": "1,500円",
+      "management_fees": "[1500]",
+      "access": "ＪＲ横浜線「町田」駅からバス約12分「高ヶ坂団地」下車徒歩1分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4589938, 35.5465375] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "豪徳寺",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280030&pgret=2",
+      "address": "世田谷区豪徳寺2-14-10",
+      "rent_raw": "46,500・48,200円（月額）",
+      "rent_from": 46500,
+      "rent_to": 48200,
+      "layout_raw": "2K",
+      "layouts": "['2K']",
+      "built_year": 1954,
+      "management_fee_raw": "900円",
+      "management_fees": "[900]",
+      "access": "小田急小田原線「豪徳寺」駅下車徒歩13分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6471521, 35.6467424] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "鷺宮西",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1480120&pgret=2",
+      "address": "中野区白鷺3-2-1",
+      "rent_raw": "38,700～77,400円（月額）",
+      "rent_from": 38700,
+      "rent_to": 77400,
+      "layout_raw": "2K～3K",
+      "layouts": "['2K', '3K']",
+      "built_year": 1961,
+      "management_fee_raw": "1,500円",
+      "management_fees": "[1500]",
+      "access": "西武新宿線「鷺ノ宮」駅下車徒歩7分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6349879, 35.7224461] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "春江町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380020&pgret=2",
+      "address": "江戸川区春江町1-2-1",
+      "rent_raw": "56,200～64,500円（月額）",
+      "rent_from": 56200,
+      "rent_to": 64500,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1972,
+      "management_fee_raw": "2,400円",
+      "management_fees": "[2400]",
+      "access": "都営地下鉄新宿線「瑞江」駅下車徒歩17分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8913321, 35.7026058] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "春江町椿",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380070&pgret=2",
+      "address": "江戸川区春江町2-4-1,2",
+      "rent_raw": "67,500円（月額）",
+      "rent_from": 67500,
+      "rent_to": 67500,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1976,
+      "management_fee_raw": "2,900円",
+      "management_fees": "[2900]",
+      "access": "都営地下鉄新宿線「瑞江」駅下車徒歩19分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8866408, 35.6999508] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "勝どきサンスクェア",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=280080&pgret=2",
+      "address": "中央区勝どき1-7-2",
+      "rent_raw": "167,900～213,400円（月額）",
+      "rent_from": 167900,
+      "rent_to": 213400,
+      "layout_raw": "２ＤＫ～３ＬＤＫ",
+      "layouts": "['2DK', '3LDK']",
+      "built_year": 1996,
+      "management_fee_raw": "7,200円",
+      "management_fees": "[7200]",
+      "access": "都営地下鉄大江戸線「勝どき」駅下車徒歩1分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7776026, 35.6599093] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "小金井貫井",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4080020&pgret=2",
+      "address": "小金井市貫井南町5-3-1",
+      "rent_raw": "35,300～44,900円（月額）",
+      "rent_from": 35300,
+      "rent_to": 44900,
+      "layout_raw": "２Ｋ・２ＤＫ",
+      "layouts": "['2K', '2DK']",
+      "built_year": 1963,
+      "management_fee_raw": "3,300円",
+      "management_fees": "[3300]",
+      "access": "ＪＲ中央線「武蔵小金井」駅からバス約8分「貫井南町二丁目」下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.492957, 35.6915725] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "小金井本町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4080010&pgret=2",
+      "address": "小金井市本町4-5",
+      "rent_raw": "44,200～65,600円（月額）",
+      "rent_from": 44200,
+      "rent_to": 65600,
+      "layout_raw": "２Ｋ～３Ｋ",
+      "layouts": "['2K', '3K']",
+      "built_year": 1961,
+      "management_fee_raw": "1,500円",
+      "management_fees": "[1500]",
+      "access": "ＪＲ中央線「武蔵小金井」駅下車徒歩16分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5008009, 35.7067848] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "昭島玉川町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3780020&pgret=2",
+      "address": "昭島市玉川町5-15-1",
+      "rent_raw": "55,700・57,100円（月額）",
+      "rent_from": 55700,
+      "rent_to": 57100,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1978,
+      "management_fee_raw": "4,200円",
+      "management_fees": "[4200]",
+      "access": "ＪＲ青梅線「中神」駅下車徒歩11分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3757623, 35.7025406] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "昭島田中町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3780030&pgret=2",
+      "address": "昭島市田中町3-5-1",
+      "rent_raw": "38,200～56,100円（月額）",
+      "rent_from": 38200,
+      "rent_to": 56100,
+      "layout_raw": "2DK・3DK",
+      "layouts": "['2DK', '3DK']",
+      "built_year": 1979,
+      "management_fee_raw": "1,800円（17号棟以外）・2,700（17号棟）円",
+      "management_fees": "[1800]",
+      "access": "ＪＲ青梅線「昭島」駅からバス約14分「田中町団地」下車徒歩1分",
+      "comment": "７階建はエレベータがあります。ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3530396, 35.6992814] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "松が谷",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180060&pgret=2",
+      "address": "八王子市松が谷49-1",
+      "rent_raw": "40,800～64,400円（月額）",
+      "rent_from": 40800,
+      "rent_to": 64400,
+      "layout_raw": "１ＬＤＫ～３ＤＫ",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 1976,
+      "management_fee_raw": "2,400円",
+      "management_fees": "[2400]",
+      "access": "小田急多摩線「多摩センター」駅からバス約6分「松が谷小学校」下車徒歩2分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4141387, 35.6305475] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "松が谷第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180130&pgret=2",
+      "address": "八王子市松が谷59-1",
+      "rent_raw": "62,400～65,900円（月額）",
+      "rent_from": 62400,
+      "rent_to": 65900,
+      "layout_raw": "3DK",
+      "layouts": "['3DK']",
+      "built_year": 1979,
+      "management_fee_raw": "4,000円",
+      "management_fees": "[4000]",
+      "access": "小田急多摩線「多摩センター」駅からバス約6分「松が谷」下車徒歩4分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4123299, 35.630377] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "松枝",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180110&pgret=2",
+      "address": "八王子市諏訪町1922-1-1",
+      "rent_raw": "31,400・36,300円（月額）",
+      "rent_from": 31400,
+      "rent_to": 36300,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1976,
+      "management_fee_raw": "2,500円",
+      "management_fees": "[2500]",
+      "access": "ＪＲ中央線「八王子」駅からバス約34分「松枝住宅」下車徒歩5分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。エレベータは７階建（２、３、６、７号棟）のみです。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.2933199, 35.6818949] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "新河岸一丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980180&pgret=2",
+      "address": "板橋区新河岸1-3-4",
+      "rent_raw": "58,500円（月額）",
+      "rent_from": 58500,
+      "rent_to": 58500,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1978,
+      "management_fee_raw": "4,000円",
+      "management_fees": "[4000]",
+      "access": "都営地下鉄三田線「高島平」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6657569, 35.7944125] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "新田",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380040&pgret=2",
+      "address": "江戸川区西葛西8-2-1",
+      "rent_raw": "73,500～76,800円（月額）",
+      "rent_from": 73500,
+      "rent_to": 76800,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1975,
+      "management_fee_raw": "3,500円",
+      "management_fees": "[3500]",
+      "access": "東京メトロ東西線「西葛西」駅下車徒歩15分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8599061, 35.6569689] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "新田第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380080&pgret=2",
+      "address": "江戸川区西葛西8-15-4",
+      "rent_raw": "78,000～85,600円（月額）",
+      "rent_from": 78000,
+      "rent_to": 85600,
+      "layout_raw": "１ＬＤＫ～２ＤＫ",
+      "layouts": "['1LDK', '2DK']",
+      "built_year": 1979,
+      "management_fee_raw": "3,500円",
+      "management_fees": "[3500]",
+      "access": "東京メトロ東西線「西葛西」駅下車徒歩16分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8611559, 35.6557608] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "森野",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3980060&pgret=2",
+      "address": "町田市森野1-2",
+      "rent_raw": "44,900～72,900円（月額）",
+      "rent_from": 44900,
+      "rent_to": 72900,
+      "layout_raw": "２Ｋ～３Ｋ",
+      "layouts": "['2K', '3K']",
+      "built_year": 1963,
+      "management_fee_raw": "2,400円",
+      "management_fees": "[2400]",
+      "access": "小田急小田原線「町田」駅下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4419934, 35.5432394] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "真光寺",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3980180&pgret=2",
+      "address": "町田市真光寺3-1-3-1",
+      "rent_raw": "53,100～60,600円（月額）",
+      "rent_from": 53100,
+      "rent_to": 60600,
+      "layout_raw": "2DK・3DK",
+      "layouts": "['2DK', '3DK']",
+      "built_year": 1978,
+      "management_fee_raw": "2,100円",
+      "management_fees": "[2100]",
+      "access": "小田急小田原線「鶴川」駅からバス約14分「鶴川団地引返場」下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4616765, 35.5974] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "清瀬台田",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5180020&pgret=2",
+      "address": "清瀬市下宿1-1-1",
+      "rent_raw": "29,500～38,500円（月額）",
+      "rent_from": 29500,
+      "rent_to": 38500,
+      "layout_raw": "1DK～3K",
+      "layouts": "['1DK', '3K']",
+      "built_year": 1972,
+      "management_fee_raw": "1,200円",
+      "management_fees": "[1200]",
+      "access": "西武池袋線「清瀬」駅からバス約10分「台田団地中央」下車徒歩1分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5304172, 35.7941173] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "西新井本町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2180080&pgret=2",
+      "address": "足立区西新井本町2-30-18-1,2",
+      "rent_raw": "66,500・67,000円（月額）",
+      "rent_from": 66500,
+      "rent_to": 67000,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1978,
+      "management_fee_raw": "3,600円",
+      "management_fees": "[3600]",
+      "access": "東武大師線「大師前」駅下車徒歩15分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7712416, 35.7754906] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "西台",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980150&pgret=2",
+      "address": "板橋区高島平9-1-5",
+      "rent_raw": "66,700・73,200円（月額）",
+      "rent_from": 66700,
+      "rent_to": 73200,
+      "layout_raw": "3DK",
+      "layouts": "['3DK']",
+      "built_year": 1972,
+      "management_fee_raw": "2,400円",
+      "management_fees": "[2400]",
+      "access": "都営地下鉄三田線「西台」駅下車徒歩1分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6738565, 35.7874834] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "西大島",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880170&pgret=2",
+      "address": "江東区大島4-1-8,9",
+      "rent_raw": "87,800・94,100円（月額）",
+      "rent_from": 87800,
+      "rent_to": 94100,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1980,
+      "management_fee_raw": "2,900円",
+      "management_fees": "[2900]",
+      "access": "都営地下鉄新宿線「西大島」駅下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8274824, 35.6867378] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "西保木間",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2180070&pgret=2",
+      "address": "足立区西保木間4-12-2,3",
+      "rent_raw": "52,500～65,700円（月額）",
+      "rent_from": 52500,
+      "rent_to": 65700,
+      "layout_raw": "1LDK・2DK",
+      "layouts": "['1LDK', '2DK']",
+      "built_year": 1975,
+      "management_fee_raw": "3,000円",
+      "management_fees": "[3000]",
+      "access": "東武スカイツリーライン(伊勢崎線)「竹ノ塚」駅からバス約6分「足立清掃工場」下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7975704, 35.8048004] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "青井五丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2180090&pgret=2",
+      "address": "足立区青井5-11-40",
+      "rent_raw": "72,000円（月額）",
+      "rent_from": 72000,
+      "rent_to": 72000,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1979,
+      "management_fee_raw": "3,700円",
+      "management_fees": "[3700]",
+      "access": "首都圏新都市鉄道つくばエクスプレス線「青井」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8198223, 35.7769755] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "千住東町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2180060&pgret=2",
+      "address": "足立区千住東2-21-1,2",
+      "rent_raw": "76,800・81,900円（月額）",
+      "rent_from": 76800,
+      "rent_to": 81900,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1973,
+      "management_fee_raw": "2,500円",
+      "management_fees": "[2500]",
+      "access": "京成線「京成関屋」駅下車徒歩5分",
+      "comment": "当住宅の敷地内に交番があります。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8097116, 35.746323] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "前野町第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980160&pgret=2",
+      "address": "板橋区前野町1-20-1",
+      "rent_raw": "67,200・71,300円（月額）",
+      "rent_from": 67200,
+      "rent_to": 71300,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1973,
+      "management_fee_raw": "2,300円",
+      "management_fees": "[2300]",
+      "access": "東武東上線「ときわ台」駅下車徒歩14分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6959636, 35.765311] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "多摩川（狛江市）",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3880031&pgret=2",
+      "address": "狛江市西和泉1-1",
+      "rent_raw": "38,800～67,500円（月額）",
+      "rent_from": 38800,
+      "rent_to": 67500,
+      "layout_raw": "１ＤＫ～３Ｋ",
+      "layouts": "['1DK', '3K']",
+      "built_year": 1966,
+      "management_fee_raw": "1,700円",
+      "management_fees": "[1700]",
+      "access": "小田急小田原線「狛江」駅からバス約10分「多摩川住宅中央」下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5634881, 35.6413446] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "多摩川（調布市）",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3880030&pgret=2",
+      "address": "調布市染地3-1-115",
+      "rent_raw": "44,400～71,100円（月額）",
+      "rent_from": 44400,
+      "rent_to": 71100,
+      "layout_raw": "２Ｋ～３ＤＫ",
+      "layouts": "['2K', '3DK']",
+      "built_year": 1966,
+      "management_fee_raw": "2,200円",
+      "management_fees": "[2200]",
+      "access": "小田急小田原線「狛江」駅からバス約10分「多摩川住宅中央」下車徒歩5分",
+      "comment": "当住宅の敷地内に交番があります。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5619957, 35.6418348] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "大和芝中",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5080040&pgret=2",
+      "address": "東大和市蔵敷3-1197-1",
+      "rent_raw": "35,200～58,200円（月額）",
+      "rent_from": 35200,
+      "rent_to": 58200,
+      "layout_raw": "１ＬＤＫ～３Ｋ",
+      "layouts": "['1LDK', '3K']",
+      "built_year": 1970,
+      "management_fee_raw": "1,600円",
+      "management_fees": "[1600]",
+      "access": "多摩都市モノレール「上北台」駅下車徒歩10分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.420432, 35.7480858] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "大和上北台",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5080060&pgret=2",
+      "address": "東大和市上北台2-886-1",
+      "rent_raw": "39,600～57,400円（月額）",
+      "rent_from": 39600,
+      "rent_to": 57400,
+      "layout_raw": "２ＤＫ～３Ｋ",
+      "layouts": "['2DK', '3K']",
+      "built_year": 1972,
+      "management_fee_raw": "1,600円",
+      "management_fees": "[1600]",
+      "access": "西武拝島線「玉川上水」駅からバス約7分「店舗前」下車徒歩５分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4117469, 35.7437759] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "辰巳あけぼの",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880210&pgret=2",
+      "address": "江東区辰巳2-5-1",
+      "rent_raw": "88,100～106,800円（月額）",
+      "rent_from": 88100,
+      "rent_to": 106800,
+      "layout_raw": "2LDK～3DK",
+      "layouts": "['2LDK', '3DK']",
+      "built_year": 1982,
+      "management_fee_raw": "2,500円",
+      "management_fees": "[2500]",
+      "access": "ＪＲ京葉線「潮見」駅下車徒歩11分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.816474, 35.6535125] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "辰巳しののめ",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880190&pgret=2",
+      "address": "江東区辰巳1-5-15",
+      "rent_raw": "82,200円（月額）",
+      "rent_from": 82200,
+      "rent_to": 82200,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1982,
+      "management_fee_raw": "3,000円",
+      "management_fees": "[3000]",
+      "access": "東京メトロ有楽町線「辰巳」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8068933, 35.6525067] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "中台町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980080&pgret=2",
+      "address": "板橋区若木2-13-1",
+      "rent_raw": "34,200～42,300円（月額）",
+      "rent_from": 34200,
+      "rent_to": 42300,
+      "layout_raw": "2K",
+      "layouts": "['2K']",
+      "built_year": 1961,
+      "management_fee_raw": "1,000円",
+      "management_fees": "[1000]",
+      "access": "東武東上線「上板橋」駅下車徒歩14分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6734915, 35.7702505] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "町田木曽",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3980150&pgret=2",
+      "address": "町田市木曽東4-11-イ1",
+      "rent_raw": "33,000～55,600円（月額）",
+      "rent_from": 33000,
+      "rent_to": 55600,
+      "layout_raw": "1R～3DK",
+      "layouts": "['1R', '3DK']",
+      "built_year": 1969,
+      "management_fee_raw": "1,500円",
+      "management_fees": "[1500]",
+      "access": "小田急小田原線「町田」駅からバス約16分「山崎団地センター」下車徒歩1分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4332369, 35.5637773] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "田無西原",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4680020&pgret=2",
+      "address": "西東京市西原町3-7-B",
+      "rent_raw": "39,900～60,400円（月額）",
+      "rent_from": 39900,
+      "rent_to": 60400,
+      "layout_raw": "２Ｋ～３Ｋ",
+      "layouts": "['2K', '3K']",
+      "built_year": 1963,
+      "management_fee_raw": "2,000円",
+      "management_fees": "[2000]",
+      "access": "西武新宿線「田無」駅からバス約7分「文華女子高等学校」下車徒歩4分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5326677, 35.7359802] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "田無南芝",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4680030&pgret=2",
+      "address": "西東京市芝久保町2-17",
+      "rent_raw": "35,100～66,200円（月額）",
+      "rent_from": 35100,
+      "rent_to": 66200,
+      "layout_raw": "２Ｋ～３Ｋ",
+      "layouts": "['2K', '3K']",
+      "built_year": 1964,
+      "management_fee_raw": "1,600円",
+      "management_fees": "[1600]",
+      "access": "西武新宿線「田無」駅からバス約7分「北芝久保（都営・西武）」下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.525136, 35.726218] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "東雲都橋",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880120&pgret=2",
+      "address": "江東区東雲2-4-1,2",
+      "rent_raw": "82,100・83,100円（月額）",
+      "rent_from": 82100,
+      "rent_to": 83100,
+      "layout_raw": "3DK",
+      "layouts": "['3DK']",
+      "built_year": 1979,
+      "management_fee_raw": "2,400円",
+      "management_fees": "[2400]",
+      "access": "東京臨海高速鉄道りんかい線「東雲」駅下車徒歩10分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7980825, 35.6422861] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "東葛西第一",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380111&pgret=2",
+      "address": "江戸川区東葛西4-4-1",
+      "rent_raw": "86,800・89,700円（月額）",
+      "rent_from": 86800,
+      "rent_to": 89700,
+      "layout_raw": "3DK",
+      "layouts": "['3DK']",
+      "built_year": 1982,
+      "management_fee_raw": "2,000円",
+      "management_fees": "[2000]",
+      "access": "東京メトロ東西線「葛西」駅下車徒歩16分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8831846, 35.66020230000001] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "東葛西第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380112&pgret=2",
+      "address": "江戸川区東葛西9-10-1",
+      "rent_raw": "78,700円（月額）",
+      "rent_from": 78700,
+      "rent_to": 78700,
+      "layout_raw": "3K",
+      "layouts": "['3K']",
+      "built_year": 1982,
+      "management_fee_raw": "3,000円",
+      "management_fees": "[3000]",
+      "access": "東京メトロ東西線「葛西」駅下車徒歩17分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8826131, 35.6584052] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "東寺方",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5480100&pgret=2",
+      "address": "多摩市東寺方626-2-1",
+      "rent_raw": "61,300円（月額）",
+      "rent_from": 61300,
+      "rent_to": 61300,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1979,
+      "management_fee_raw": "2,600円",
+      "management_fees": "[2600]",
+      "access": "京王線「聖蹟桜ヶ丘」駅下車徒歩21分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4376573, 35.6429639] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "南烏山三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1280100&pgret=2",
+      "address": "世田谷区南烏山3-11-19",
+      "rent_raw": "88,800・93,700円（月額）",
+      "rent_from": 88800,
+      "rent_to": 93700,
+      "layout_raw": "3K",
+      "layouts": "['3K']",
+      "built_year": 1973,
+      "management_fee_raw": "1,400円",
+      "management_fees": "[1400]",
+      "access": "京王線「芦花公園」駅下車徒歩4分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6059997, 35.6705085] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "南葛西",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380090&pgret=2",
+      "address": "江戸川区南葛西1-1-1,2",
+      "rent_raw": "73,100・73,600円（月額）",
+      "rent_from": 73100,
+      "rent_to": 73600,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1980,
+      "management_fee_raw": "4,100円",
+      "management_fees": "[4100]",
+      "access": "東京メトロ東西線「西葛西」駅からバス約6分「新田」下車徒歩6分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.867346, 35.6531165] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "南砂",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880080&pgret=2",
+      "address": "江東区南砂2-3-1",
+      "rent_raw": "70,100～91,800円（月額）",
+      "rent_from": 70100,
+      "rent_to": 91800,
+      "layout_raw": "1LDK・2DK",
+      "layouts": "['1LDK', '2DK']",
+      "built_year": 1975,
+      "management_fee_raw": "1,550円",
+      "management_fees": "[1550]",
+      "access": "東京メトロ東西線「東陽町」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8220008, 35.6702883] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "南砂七丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=880110&pgret=2",
+      "address": "江東区南砂7-1-18",
+      "rent_raw": "78,400円（月額）",
+      "rent_from": 78400,
+      "rent_to": 78400,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1976,
+      "management_fee_raw": "2,800円",
+      "management_fees": "[2800]",
+      "access": "東京メトロ東西線「南砂町」駅下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8343933, 35.6680293] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "梅園三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5180040&pgret=2",
+      "address": "清瀬市梅園3-1-1,2",
+      "rent_raw": "52,800円（月額）",
+      "rent_from": 52800,
+      "rent_to": 52800,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1978,
+      "management_fee_raw": "2,000円",
+      "management_fees": "[2000]",
+      "access": "西武池袋線「清瀬」駅からバス約6分「上宮」下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.5030869, 35.7694827] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "八王子泉町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3180040&pgret=2",
+      "address": "八王子市泉町682-1-1",
+      "rent_raw": "29,800・30,600円（月額）",
+      "rent_from": 29800,
+      "rent_to": 30600,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1972,
+      "management_fee_raw": "1,900円",
+      "management_fees": "[1900]",
+      "access": "ＪＲ中央線「八王子」駅からバス約26分「泉町住宅」下車徒歩1分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.299222, 35.6764033] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "富士見町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3280040&pgret=2",
+      "address": "立川市富士見町6-1",
+      "rent_raw": "40,700～63,100円（月額）",
+      "rent_from": 40700,
+      "rent_to": 63100,
+      "layout_raw": "1K～2DK",
+      "layouts": "['1K', '2DK']",
+      "built_year": 1968,
+      "management_fee_raw": "1,900円",
+      "management_fees": "[1900]",
+      "access": "ＪＲ中央線「立川」駅からバス約7分「富士見町団地」下車徒歩4分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3955455, 35.694498] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "富士見町東",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3280070&pgret=2",
+      "address": "立川市富士見町7-41",
+      "rent_raw": "64,800～68,600円（月額）",
+      "rent_from": 64800,
+      "rent_to": 68600,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1978,
+      "management_fee_raw": "1,800円",
+      "management_fees": "[1800]",
+      "access": "ＪＲ中央線「立川」駅からバス約6分「富士見町七丁目」下車徒歩5分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3984028, 35.6913696] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "福生加美平",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4880020&pgret=2",
+      "address": "福生市加美平4-1-1",
+      "rent_raw": "29,300～46,400円（月額）",
+      "rent_from": 29300,
+      "rent_to": 46400,
+      "layout_raw": "２Ｋ～３Ｋ",
+      "layouts": "['2K', '3K']",
+      "built_year": 1967,
+      "management_fee_raw": "1,300円",
+      "management_fees": "[1300]",
+      "access": "ＪＲ青梅線「福生」駅からバス約5分「加美平団地中央」下車徒歩2分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3241023, 35.7520811] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "平山",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=4280020&pgret=2",
+      "address": "日野市東平山1-7-6",
+      "rent_raw": "29,700～52,600円（月額）",
+      "rent_from": 29700,
+      "rent_to": 52600,
+      "layout_raw": "2K～3K",
+      "layouts": "['2K', '3K']",
+      "built_year": 1965,
+      "management_fee_raw": "1,200円",
+      "management_fees": "[1200]",
+      "access": "ＪＲ中央線「豊田」駅下車徒歩18分",
+      "comment": "当住宅の敷地内に駐在所があります。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.3772711, 35.6480405] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "平尾",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5580010&pgret=2",
+      "address": "稲城市平尾3-1-1-1",
+      "rent_raw": "42,400～55,400円（月額）",
+      "rent_from": 42400,
+      "rent_to": 55400,
+      "layout_raw": "1DK～3K",
+      "layouts": "['1DK', '3K']",
+      "built_year": 1970,
+      "management_fee_raw": "1,700円",
+      "management_fees": "[1700]",
+      "access": "小田急小田原線「新百合ヶ丘」駅からバス約12分「平尾団地」下車徒歩2分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。　　当住宅の敷地内に交番があります。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4862036, 35.6105] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "豊島町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1780030&pgret=2",
+      "address": "北区豊島7-31-1",
+      "rent_raw": "66,500～75,500円（月額）",
+      "rent_from": 66500,
+      "rent_to": 75500,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1972,
+      "management_fee_raw": "2,700円",
+      "management_fees": "[2700]",
+      "access": "ＪＲ京浜東北線「王子」駅からバス約8分「新田橋」下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7437675, 35.766829] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "堀江",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2380050&pgret=2",
+      "address": "江戸川区南葛西3-16-1",
+      "rent_raw": "65,100～70,300円（月額）",
+      "rent_from": 65100,
+      "rent_to": 70300,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1975,
+      "management_fee_raw": "3,800円",
+      "management_fees": "[3800]",
+      "access": "ＪＲ京葉線「葛西臨海公園」駅からバス約4分「堀江団地」下車徒歩5分",
+      "comment": "当住宅の敷地内に交番があります。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.870018, 35.6500142] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "堀船",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1780020&pgret=2",
+      "address": "北区堀船2-27-1,2",
+      "rent_raw": "57,500～70,600円（月額）",
+      "rent_from": 57500,
+      "rent_to": 70600,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1971,
+      "management_fee_raw": "1,600円",
+      "management_fees": "[1600]",
+      "access": "ＪＲ京浜東北線「王子」駅下車徒歩14分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7467515, 35.7563197] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "堀船第二",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1780040&pgret=2",
+      "address": "北区堀船2-22-1,2",
+      "rent_raw": "72,300～74,700円（月額）",
+      "rent_from": 72300,
+      "rent_to": 74700,
+      "layout_raw": "2DK",
+      "layouts": "['2DK']",
+      "built_year": 1975,
+      "management_fee_raw": "1,800円",
+      "management_fees": "[1800]",
+      "access": "ＪＲ京浜東北線「王子」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7456836, 35.7552011] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "本村町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=380010&pgret=2",
+      "address": "港区南麻布3-12-1",
+      "rent_raw": "61,600円（月額）",
+      "rent_from": 61600,
+      "rent_to": 61600,
+      "layout_raw": "2K",
+      "layouts": "['2K']",
+      "built_year": 1953,
+      "management_fee_raw": "300円",
+      "management_fees": "[300]",
+      "access": "東京メトロ日比谷線「広尾」駅下車徒歩15分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.7308351, 35.6484966] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "本町田",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3980110&pgret=2",
+      "address": "町田市本町田867-1-イ1",
+      "rent_raw": "38,600～60,000円（月額）",
+      "rent_from": 38600,
+      "rent_to": 60000,
+      "layout_raw": "２Ｋ～３Ｋ",
+      "layouts": "['2K', '3K']",
+      "built_year": 1965,
+      "management_fee_raw": "800円",
+      "management_fees": "[800]",
+      "access": "小田急小田原線「町田」駅からバス約9分「ストアー前」下車徒歩2分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4519076, 35.5608565] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "本田川端町",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=2280010&pgret=2",
+      "address": "葛飾区東立石4-1-1",
+      "rent_raw": "32,100・32,200円（月額）",
+      "rent_from": 32100,
+      "rent_to": 32200,
+      "layout_raw": "２Ｋ",
+      "layouts": "['2K']",
+      "built_year": 1957,
+      "management_fee_raw": "600円",
+      "management_fees": "[600]",
+      "access": "京成押上線「京成立石」駅下車徒歩12分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.8515351, 35.7315012] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "木曽",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=3980070&pgret=2",
+      "address": "町田市木曽東4-6",
+      "rent_raw": "27,500～52,600円（月額）",
+      "rent_from": 27500,
+      "rent_to": 52600,
+      "layout_raw": "2K～3K",
+      "layouts": "['2K', '3K']",
+      "built_year": 1963,
+      "management_fee_raw": "1,700円",
+      "management_fees": "[1700]",
+      "access": "小田急小田原線「町田」駅からバス約11分「木曽住宅」下車徒歩3分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4284919, 35.5634128] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "落合",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5480070&pgret=2",
+      "address": "多摩市落合4-1-1",
+      "rent_raw": "52,900～62,300円（月額）",
+      "rent_from": 52900,
+      "rent_to": 62300,
+      "layout_raw": "１ＬＤＫ～３ＤＫ",
+      "layouts": "['1LDK', '3DK']",
+      "built_year": 1975,
+      "management_fee_raw": "2,300円・2,500円・3,000円・3,100円",
+      "management_fees": "[2300, 2500, 3000, 3100]",
+      "access": "小田急多摩線「多摩センター」駅からバス約5分「落合四丁目」下車徒歩3分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4317128, 35.6154725] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "落合三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=5480110&pgret=2",
+      "address": "多摩市落合3-5-1",
+      "rent_raw": "72,400・72,600円（月額）",
+      "rent_from": 72400,
+      "rent_to": 72600,
+      "layout_raw": "3DK",
+      "layouts": "['3DK']",
+      "built_year": 1980,
+      "management_fee_raw": "3,500円",
+      "management_fees": "[3500]",
+      "access": "京王相模原線「多摩センター」駅下車徒歩13分",
+      "comment": "ステップ35割は対象住戸が限られているので、各特設サイトでご確認ください。"
+    },
+    "geometry": { "type": "Point", "coordinates": [139.4314894, 35.6217369] }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "name": "蓮根三丁目",
+      "link": "/jkktokyo/detailMap?account=jkktokyo&bid=1980170&pgret=2",
+      "address": "板橋区蓮根3-15-3",
+      "rent_raw": "80,100円（月額）",
+      "rent_from": 80100,
+      "rent_to": 80100,
+      "layout_raw": "3DK",
+      "layouts": "['3DK']",
+      "built_year": 1978,
+      "management_fee_raw": "3,300円",
+      "management_fees": "[3300]",
+      "access": "都営地下鉄三田線「西台」駅下車徒歩8分",
+      "comment": null
+    },
+    "geometry": { "type": "Point", "coordinates": [139.6777291, 35.7892303] }
+  }
+]
