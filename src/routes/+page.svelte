@@ -27,16 +27,14 @@
 
   // set loading true
   loading.set(true);
-  // promise to dynamically import leaflet
-  const L = import('leaflet');
+  const _L = import('leaflet'); // promise to dynamically import leaflet
+  
 
   // parameter
   let rent = [80000, 120000];
-  let rent_before = [];
   let year = [0, 40];
-  let year_before = [];
 
-  const buildMap = (node, { L }) => {
+  const buildMap = (node) => {
     loading.set(true);
 
     // helpers
@@ -155,14 +153,6 @@
     residenceFG.addLayer(layer);
 
     const updateResidenceFG = () => {
-      // check if parameters are updated
-      if (rent === rent_before && year === year_before) {
-        console.log('parameters are not changed.');
-        return;
-      } else {
-        rent_before = rent;
-        year_before = year;
-      }
 
       layer.eachLayer((el) => {
         console.log('Updating residence in map...');
@@ -201,11 +191,11 @@
   <meta name="description" content="JKK Map" />
 </svelte:head>
 
-{#await L then L}
-  <div class="control">
-    <RangeControl bind:rent bind:year />
-  </div>
-  <div class="map" use:buildMap={{ L: L, rent: rent, year: year }} />
+<div class="control">
+  <RangeControl bind:rent bind:year />
+</div>
+{#await _L then L}
+  <div class="map" use:buildMap={{ rent: rent, year: year }} />
 {/await}
 
 <style>
