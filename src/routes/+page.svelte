@@ -28,7 +28,6 @@
   // set loading true
   loading.set(true);
   const _L = import('leaflet'); // promise to dynamically import leaflet
-  
 
   // parameter
   let rent = [80000, 120000];
@@ -153,7 +152,6 @@
     residenceFG.addLayer(layer);
 
     const updateResidenceFG = () => {
-
       layer.eachLayer((el) => {
         console.log('Updating residence in map...');
         const { rent_from, rent_to, built_year } = el.feature.properties;
