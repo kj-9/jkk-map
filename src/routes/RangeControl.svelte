@@ -17,7 +17,7 @@
 </script>
 
 <div class="container">
-  <div class="return-icon"><a href="/projects"><ReturnIcon /></a></div>
+  <div class="return-icon"><a href="https://blog.kj-dev.net/projects"><ReturnIcon /></a></div>
   <div><h2>{titleRent}</h2></div>
   <div class="slider">
     <RangeSlider
